@@ -9,7 +9,7 @@ import pandas as pd
 # Raíz del proyecto: dos niveles por encima de este archivo (src/airemad/ -> raíz)
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 RAW_DATA = PROJECT_ROOT / "data" / "raw" / "calidad_aire_madrid.csv"
-PROCESSED_DATA = PROJECT_ROOT / "data" / "processed" / "calidad_aire_limpio.parquet"
+PROCESSED_DATA = PROJECT_ROOT / "data" / "processed" / "calidad_aire_limpio.csv"
 
 
 def load_raw(path: Path | str = RAW_DATA) -> pd.DataFrame:
