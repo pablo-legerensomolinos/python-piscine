@@ -22,3 +22,5 @@ credentials*.json
 
 # --- Sistema ---
 .DS_Store
+
+GUION_CHARLA.md
