@@ -1,0 +1,24 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# --- Datos: NUNCA se commitean datos procesados ni grandes ---
+data/processed/*
+!data/processed/.gitkeep
+
+# --- Salidas ---
+figures/*
+!figures/.gitkeep
+
+# --- Secretos: esto JAMÁS entra en git ---
+.env
+*.pem
+credentials*.json
+
+# --- Sistema ---
+.DS_Store

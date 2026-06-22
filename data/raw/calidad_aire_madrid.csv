@@ -1,0 +1,2213 @@
+FECHA;ESTACION;NO2;PM25;MAGNITUD
+2025-05-23;casa de campo;12,2;4,1;ug/m3
+2025-08-06;Escuelas Aguirre;26,7;5,1;ug/m3
+2025-09-03;cuatro caminos ;28,8;12,8;ug/m3
+2025-03-13;Parque del Retiro;30,9;8,7;ug/m3
+31/07/2025;Plaza del Carmen;22,1;3,2;ug/m3
+2025-08-24;casa de campo;23,6;5,5;ug/m3
+2025-05-16;Pza. Elíptica;46,9;8,9;ug/m3
+2025-03-10;Pza. Elíptica;68,7;17,9;ug/m3
+2025-07-04;Plaza del Carmen;27,4;6,3;ug/m3
+2025-12-31;Retiro;26,5;4,9;ug/m3
+25/08/2025;Cuatro Caminos;22,4;10,0;ug/m3
+2025-04-28;CUATRO CAMINOS;37,3;9,2;ug/m3
+2025-07-23;Casa de Campo;-999,0;5,2;ug/m3
+2025-09-13;CASA DE CAMPO;7,5;3,1;ug/m3
+11/05/2025;PLAZA DEL CARMEN;18,3;9,9;ug/m3
+2025-03-06;Casa de Campo;22,3;6,6;ug/m3
+2025-07-25;Retiro;19,2;4,8;ug/m3
+13/03/2025;PLAZA ELIPTICA;66,6;16,7;ug/m3
+2025-01-29;Pza. Elíptica;57,3;12,7;ug/m3
+2025-12-05;RETIRO;26,7;8,8;ug/m3
+2025-05-03;Parque del Retiro;23,7;5,4;ug/m3
+2025-02-28;Casa de Campo;23,0;6,4;ug/m3
+2025-10-28;cuatro caminos ;41,9;13,8;ug/m3
+2025-11-21;casa de campo;21,2;10,1;ug/m3
+2025-02-15;Cuatro Caminos;42,2;11,3;ug/m3
+2025-03-30;PLAZA DEL CARMEN;19,9;12,9;ug/m3
+2025-07-03;PLAZA DEL CARMEN;19,9;8,8;ug/m3
+2025-11-30;Escuelas Aguirre;32,1;14,6;ug/m3
+2025-12-13;PLAZA ELIPTICA;41,5;18,5;ug/m3
+2025-01-05;CUATRO CAMINOS;-999,0;13,5;ug/m3
+23/05/2025;CUATRO CAMINOS;29,4;12,9;ug/m3
+2025-02-16;Cuatro Caminos;46,0;7,4;ug/m3
+2025-09-20;casa de campo;9,8;4,7;ug/m3
+2025-05-29;Pza. Elíptica;29,9;14,7;ug/m3
+03/09/2025;Escuelas Aguirre;39,2;13,2;ug/m3
+2025-11-01;Plaza del Carmen;35,1;6,6;ug/m3
+2025-05-25;casa de campo;14,9;6,8;ug/m3
+2025-03-14;ESCUELAS AGUIRRE;45,2;13,1;ug/m3
+2025-12-05; Plaza Elíptica ;65,0;15,5;ug/m3
+2025-02-08;casa de campo;20,6;9,9;ug/m3
+2025-12-01;Pza. Elíptica;57,1;18,9;ug/m3
+2025-12-19;Retiro;35,1;5,3;ug/m3
+03/11/2025;casa de campo;25,3;8,8;ug/m3
+2025-01-19;CASA DE CAMPO;21,0;6,2;ug/m3
+23/11/2025;Plaza del Carmen ;23,9;8,7;ug/m3
+08/08/2025;escuelas aguirre;28,9;4,9;ug/m3
+2025-06-10;cuatro caminos ;21,3;5,4;ug/m3
+2025-09-26;ESCUELAS AGUIRRE;40,6;16,1;ug/m3
+2025-11-02;Plaza del Carmen ;23,5;12,1;ug/m3
+2025-08-21;cuatro caminos ;29,4;4,4;ug/m3
+16/06/2025;casa de campo;13,2;1,0;ug/m3
+2025-04-22;PLAZA DEL CARMEN;27,6;8,9;ug/m3
+27/12/2025;Plaza del Carmen ;26,1;7,2;ug/m3
+2025-08-22;Casa de Campo;6,7;3,5;ug/m3
+2025-09-21;PLAZA ELIPTICA;28,5;12,9;ug/m3
+31/05/2025;Pza. Elíptica;28,6;11,1;ug/m3
+03/12/2025;Cuatro Caminos;-999,0;9,7;ug/m3
+17/09/2025;Cuatro Caminos;34,6;12,4;ug/m3
+2025-07-28;Plaza Elíptica;43,3;8,7;ug/m3
+2025-10-14;Plaza del Carmen ;39,1;8,3;ug/m3
+2025-08-26;Plaza Elíptica;37,1;9,1;ug/m3
+22/07/2025;Parque del Retiro;13,4;2,8;ug/m3
+2025-10-29;PLAZA DEL CARMEN;38,9;13,1;ug/m3
+2025-01-23;Plaza del Carmen;41,9;13,6;ug/m3
+2025-01-30;cuatro caminos ;52,2;14,7;ug/m3
+2025-01-17;PLAZA ELIPTICA;71,4;15,7;ug/m3
+2025-03-03;ESCUELAS AGUIRRE;55,0;14,6;ug/m3
+03/12/2025;escuelas aguirre;51,7;11,2;ug/m3
+2025-11-13;Escuelas Aguirre;45,2;17,7;ug/m3
+2025-11-14;ESCUELAS AGUIRRE;50,6;15,9;ug/m3
+2025-06-08;Plaza Elíptica;20,2;16,0;ug/m3
+2025-02-23;Casa de Campo;28,0;6,0;ug/m3
+2025-09-21;Cuatro Caminos;22,8;5,7;ug/m3
+12/05/2025;Plaza del Carmen;31,5;7,1;ug/m3
+15/08/2025;ESCUELAS AGUIRRE;19,3;13,1;ug/m3
+2025-10-12;RETIRO;19,6;1,9;ug/m3
+2025-12-04;Plaza del Carmen;31,3;-999,0;ug/m3
+2025-03-02;Plaza Elíptica;42,3;13,5;ug/m3
+2025-02-02;Retiro;26,6;-999,0;ug/m3
+2025-12-10;Cuatro Caminos;51,1;10,0;ug/m3
+2025-08-20;ESCUELAS AGUIRRE;26,1;8,0;ug/m3
+2025-05-19;CASA DE CAMPO;15,0;2,2;ug/m3
+2025-06-22;Cuatro Caminos;19,5;7,7;ug/m3
+13/01/2025;ESCUELAS AGUIRRE;58,1;16,5;ug/m3
+08/02/2025;Cuatro Caminos;39,4;16,5;ug/m3
+2025-02-28;cuatro caminos ;45,3;14,3;ug/m3
+2025-08-30;PLAZA ELIPTICA;19,2;12,5;ug/m3
+2025-02-25;Plaza del Carmen;50,8;8,0;ug/m3
+2025-12-31;casa de campo;28,2;10,5;ug/m3
+2025-03-11;Plaza del Carmen ;46,8;8,7;ug/m3
+2025-06-23;Plaza del Carmen ;19,5;8,3;ug/m3
+01/04/2025;Parque del Retiro;31,4;6,2;ug/m3
+2025-10-18;Plaza Elíptica;34,8;13,7;ug/m3
+2025-08-31;Pza. Elíptica;17,0;12,2;ug/m3
+02/03/2025;Escuelas Aguirre;30,1;15,2;ug/m3
+2025-10-24;Escuelas Aguirre;33,1;12,3;ug/m3
+2025-01-17;Retiro;24,6;10,0;ug/m3
+2025-07-09;RETIRO;22,4;5,6;ug/m3
+2025-06-19;casa de campo;2,8;1,0;ug/m3
+2025-12-24;Escuelas Aguirre;61,2;14,2;ug/m3
+2025-06-28;Cuatro Caminos;22,2;5,0;ug/m3
+2025-03-03;Plaza del Carmen;31,6;12,9;ug/m3
+2025-04-24;Plaza Elíptica;36,0;11,9;ug/m3
+2025-01-12;Retiro;28,0;8,5;ug/m3
+2025-04-16;Parque del Retiro;26,2;7,5;ug/m3
+2025-03-11;Pza. Elíptica;63,4;17,8;ug/m3
+2025-03-31;RETIRO;17,8;2,0;ug/m3
+2025-11-09;escuelas aguirre;32,5;14,5;ug/m3
+2025-08-23;Escuelas Aguirre;15,9;8,6;ug/m3
+03/10/2025;Plaza Elíptica;49,9;11,1;ug/m3
+10/02/2025;Pza. Elíptica;65,7;14,4;ug/m3
+22/12/2025;Casa de Campo;31,4;8,7;ug/m3
+2025-05-15;casa de campo;25,2;2,5;ug/m3
+05/03/2025;Cuatro Caminos;42,9;14,3;ug/m3
+2025-02-12;PLAZA DEL CARMEN;35,0;12,4;ug/m3
+2025-08-27;Cuatro Caminos;30,3;9,7;ug/m3
+03/06/2025;Cuatro Caminos;29,9;1,6;ug/m3
+2025-06-16;RETIRO;13,3;6,4;ug/m3
+2025-01-19;Escuelas Aguirre;44,1;12,0;ug/m3
+17/11/2025;PLAZA ELIPTICA;58,4;16,2;ug/m3
+20/07/2025;RETIRO;12,0;-999,0;ug/m3
+2025-01-12;ESCUELAS AGUIRRE;31,9;15,7;ug/m3
+2025-05-06;cuatro caminos ;38,1;10,6;ug/m3
+2025-05-06;Plaza del Carmen ;-999,0;10,0;ug/m3
+2025-08-12;RETIRO;22,7;6,4;ug/m3
+2025-07-18;Cuatro Caminos;18,3;10,1;ug/m3
+2025-02-17; Plaza Elíptica ;62,7;20,5;ug/m3
+2025-09-19;Escuelas Aguirre;32,1;12,5;ug/m3
+2025-07-16;casa de campo;5,9;2,9;ug/m3
+2025-06-06;casa de campo;29,6;5,2;ug/m3
+2025-06-25;CASA DE CAMPO;30,1;1,0;ug/m3
+2025-09-27;escuelas aguirre;24,8;13,6;ug/m3
+2025-08-03;cuatro caminos ;27,4;7,5;ug/m3
+2025-10-24;Casa de Campo;27,4;5,4;ug/m3
+2025-01-31;RETIRO;28,5;12,2;ug/m3
+2025-08-04;PLAZA DEL CARMEN;19,9;10,4;ug/m3
+16/06/2025;CUATRO CAMINOS;34,6;10,8;ug/m3
+2025-09-10;Plaza del Carmen ;-999,0;10,7;ug/m3
+2025-12-12;escuelas aguirre;48,9;12,3;ug/m3
+2025-03-26;RETIRO;27,7;10,0;ug/m3
+2025-11-29;PLAZA DEL CARMEN;34,2;11,9;ug/m3
+11/02/2025;Cuatro Caminos;38,8;14,9;ug/m3
+2025-09-18;RETIRO;24,2;3,6;ug/m3
+27/03/2025;Parque del Retiro;27,9;7,5;ug/m3
+14/07/2025;PLAZA ELIPTICA;31,4;12,2;ug/m3
+26/07/2025;escuelas aguirre;24,3;12,2;ug/m3
+23/01/2025;casa de campo;24,1;4,5;ug/m3
+2025-04-08;casa de campo;18,9;6,0;ug/m3
+2025-11-24;Plaza Elíptica;55,4;15,0;ug/m3
+2025-03-30;escuelas aguirre;28,4;10,5;ug/m3
+11/02/2025;Escuelas Aguirre;39,2;12,0;ug/m3
+2025-02-28;PLAZA DEL CARMEN;55,4;15,1;ug/m3
+2025-12-03;Plaza del Carmen;37,9;13,0;ug/m3
+2025-07-04;ESCUELAS AGUIRRE;-999,0;8,5;ug/m3
+2025-09-21;CASA DE CAMPO;15,6;3,8;ug/m3
+2025-05-15;CUATRO CAMINOS;25,1;7,3;ug/m3
+2025-06-19;Retiro;19,8;1,1;ug/m3
+22/03/2025;CUATRO CAMINOS;24,2;13,6;ug/m3
+05/09/2025;cuatro caminos ;32,0;7,5;ug/m3
+2025-01-22;Plaza del Carmen;40,9;7,2;ug/m3
+2025-06-06;ESCUELAS AGUIRRE;23,9;7,5;ug/m3
+2025-04-12;cuatro caminos ;44,7;10,6;ug/m3
+2025-07-31;casa de campo;11,7;2,1;ug/m3
+2025-04-11;Plaza del Carmen ;-999,0;15,2;ug/m3
+2025-11-22;RETIRO;30,6;12,1;ug/m3
+09/01/2025;CASA DE CAMPO;22,1;7,6;ug/m3
+2025-04-24;ESCUELAS AGUIRRE;31,2;10,6;ug/m3
+02/09/2025;Escuelas Aguirre;27,1;12,2;ug/m3
+2025-09-01;Plaza del Carmen ;25,3;8,3;ug/m3
+2025-04-03;Plaza del Carmen ;30,8;7,3;ug/m3
+08/07/2025;CUATRO CAMINOS;28,6;6,1;ug/m3
+2025-04-11;Escuelas Aguirre;45,2;10,3;ug/m3
+2025-12-02;PLAZA DEL CARMEN;46,6;13,4;ug/m3
+2025-08-07;Cuatro Caminos;-999,0;5,9;ug/m3
+18/02/2025;Plaza del Carmen;39,7;14,7;ug/m3
+17/09/2025;RETIRO;24,8;4,8;ug/m3
+2025-03-12;Plaza del Carmen;-999,0;12,8;ug/m3
+21/08/2025;Plaza del Carmen;24,9;-999,0;ug/m3
+06/09/2025;ESCUELAS AGUIRRE;28,9;12,5;ug/m3
+11/08/2025;ESCUELAS AGUIRRE;24,7;8,2;ug/m3
+2025-04-30;Cuatro Caminos;31,8;10,7;ug/m3
+2025-11-25;Plaza Elíptica;73,2;15,0;ug/m3
+2025-03-05;Parque del Retiro;-999,0;6,5;ug/m3
+19/05/2025;escuelas aguirre;39,3;9,8;ug/m3
+2025-05-15;Parque del Retiro;-999,0;7,1;ug/m3
+2025-07-30;Escuelas Aguirre;26,5;7,6;ug/m3
+2025-02-19;Retiro;28,6;4,7;ug/m3
+2025-06-12;Retiro;18,1;5,7;ug/m3
+19/12/2025; Plaza Elíptica ;54,4;16,6;ug/m3
+2025-10-01;Casa de Campo;16,1;8,1;ug/m3
+2025-06-01;ESCUELAS AGUIRRE;21,2;14,9;ug/m3
+2025-11-06;PLAZA ELIPTICA;47,9;14,7;ug/m3
+20/02/2025;CASA DE CAMPO;19,4;6,4;ug/m3
+15/06/2025;Pza. Elíptica;16,4;9,9;ug/m3
+2025-07-01;Parque del Retiro;26,5;2,7;ug/m3
+02/05/2025;escuelas aguirre;41,4;7,3;ug/m3
+30/03/2025;Pza. Elíptica;33,8;18,3;ug/m3
+2025-02-01;Plaza del Carmen;31,0;13,4;ug/m3
+2025-06-05;PLAZA ELIPTICA;29,9;3,8;ug/m3
+2025-03-26;Casa de Campo;-999,0;8,8;ug/m3
+2025-04-11;CUATRO CAMINOS;40,7;15,4;ug/m3
+2025-07-08;RETIRO;12,3;1,0;ug/m3
+02/08/2025;casa de campo;6,6;2,8;ug/m3
+2025-06-29;Parque del Retiro;13,7;3,3;ug/m3
+2025-03-28;Casa de Campo;17,8;1,0;ug/m3
+2025-01-09;Pza. Elíptica;63,7;15,5;ug/m3
+2025-09-19;Plaza Elíptica;38,1;15,7;ug/m3
+2025-02-06;Plaza del Carmen;45,9;12,5;ug/m3
+22/03/2025; Plaza Elíptica ;36,2;13,2;ug/m3
+2025-06-08;Escuelas Aguirre;33,3;6,5;ug/m3
+2025-05-12;PLAZA ELIPTICA;44,2;11,5;ug/m3
+2025-01-21;Pza. Elíptica;66,1;22,1;ug/m3
+2025-11-15;ESCUELAS AGUIRRE;26,8;11,2;ug/m3
+2025-02-05;ESCUELAS AGUIRRE;52,6;15,6;ug/m3
+2025-10-22;CASA DE CAMPO;10,3;2,2;ug/m3
+2025-07-13;CASA DE CAMPO;10,6;2,1;ug/m3
+2025-01-10;Plaza del Carmen ;56,6;14,2;ug/m3
+2025-03-31;escuelas aguirre;53,3;12,1;ug/m3
+2025-09-29;PLAZA ELIPTICA;41,8;15,1;ug/m3
+2025-10-18;Plaza del Carmen ;16,7;10,0;ug/m3
+2025-09-16;ESCUELAS AGUIRRE;39,3;9,1;ug/m3
+2025-02-18;Escuelas Aguirre;52,9;14,7;ug/m3
+05/04/2025; Plaza Elíptica ;29,8;18,1;ug/m3
+2025-07-18;RETIRO;26,4;-999,0;ug/m3
+2025-03-23; Plaza Elíptica ;37,3;13,7;ug/m3
+15/10/2025;CUATRO CAMINOS;41,1;9,3;ug/m3
+2025-12-23;escuelas aguirre;56,2;13,1;ug/m3
+2025-05-29;cuatro caminos ;27,8;6,0;ug/m3
+2025-02-19;Casa de Campo;29,0;4,7;ug/m3
+2025-07-16;Plaza del Carmen ;14,4;8,1;ug/m3
+2025-08-08;Cuatro Caminos;31,0;6,2;ug/m3
+13/02/2025;escuelas aguirre;52,7;-999,0;ug/m3
+2025-07-21;cuatro caminos ;17,6;11,3;ug/m3
+2025-06-25;Cuatro Caminos;28,9;9,0;ug/m3
+27/11/2025;Parque del Retiro;30,2;7,1;ug/m3
+16/09/2025;Parque del Retiro;18,0;9,6;ug/m3
+2025-11-16;RETIRO;21,1;12,5;ug/m3
+20/05/2025;Cuatro Caminos;27,7;9,9;ug/m3
+2025-12-16;CASA DE CAMPO;18,9;6,2;ug/m3
+2025-01-08;PLAZA DEL CARMEN;55,2;12,8;ug/m3
+2025-01-28;escuelas aguirre;56,6;13,7;ug/m3
+2025-08-12;casa de campo;8,7;2,1;ug/m3
+2025-11-19;RETIRO;21,7;5,8;ug/m3
+2025-08-17;Plaza Elíptica;22,2;14,0;ug/m3
+2025-02-02; Plaza Elíptica ;50,1;19,1;ug/m3
+2025-08-23;PLAZA ELIPTICA;32,4;7,8;ug/m3
+2025-12-12;RETIRO;30,3;6,8;ug/m3
+2025-03-17;PLAZA ELIPTICA;55,8;14,2;ug/m3
+2025-12-20;Casa de Campo;25,8;9,0;ug/m3
+2025-07-29;CUATRO CAMINOS;25,0;6,2;ug/m3
+2025-08-05;cuatro caminos ;19,2;4,9;ug/m3
+2025-04-14;Plaza del Carmen ;30,1;9,7;ug/m3
+2025-10-15;ESCUELAS AGUIRRE;42,4;12,2;ug/m3
+2025-03-15;Plaza Elíptica;35,3;14,6;ug/m3
+2025-01-12;Casa de Campo;18,1;7,6;ug/m3
+2025-04-17;PLAZA ELIPTICA;48,1;11,8;ug/m3
+2025-10-06;Escuelas Aguirre;42,0;8,3;ug/m3
+15/07/2025;Pza. Elíptica;34,6;7,2;ug/m3
+08/02/2025;Plaza del Carmen ;23,2;10,7;ug/m3
+2025-02-27;Pza. Elíptica;56,6;18,5;ug/m3
+2025-10-04; Plaza Elíptica ;30,2;10,7;ug/m3
+2025-07-12;Cuatro Caminos;20,9;6,3;ug/m3
+2025-12-23;Plaza del Carmen;33,6;13,3;ug/m3
+13/04/2025;ESCUELAS AGUIRRE;28,1;6,9;ug/m3
+2025-06-04;escuelas aguirre;40,8;9,6;ug/m3
+2025-02-09;Cuatro Caminos;38,8;10,8;ug/m3
+2025-01-17;Casa de Campo;27,8;6,7;ug/m3
+14/03/2025;Casa de Campo;17,1;4,3;ug/m3
+2025-10-20;Pza. Elíptica;45,8;10,8;ug/m3
+2025-07-05;CASA DE CAMPO;14,6;5,5;ug/m3
+18/04/2025;Cuatro Caminos;33,7;9,3;ug/m3
+27/11/2025;casa de campo;24,7;1,5;ug/m3
+2025-12-31;Cuatro Caminos;56,5;18,6;ug/m3
+2025-09-05;Escuelas Aguirre;34,8;7,0;ug/m3
+2025-11-13;Plaza Elíptica;53,0;15,3;ug/m3
+2025-01-21;Parque del Retiro;19,5;9,6;ug/m3
+2025-11-04;Casa de Campo;12,8;6,1;ug/m3
+2025-01-31;CUATRO CAMINOS;45,8;15,1;ug/m3
+21/02/2025;Escuelas Aguirre;54,2;16,4;ug/m3
+03/10/2025;ESCUELAS AGUIRRE;46,3;14,2;ug/m3
+2025-01-11;Cuatro Caminos;36,0;17,6;ug/m3
+2025-04-04;casa de campo;16,1;3,7;ug/m3
+2025-03-09;Parque del Retiro;19,5;8,6;ug/m3
+16/12/2025;ESCUELAS AGUIRRE;58,8;16,3;ug/m3
+2025-08-25;CASA DE CAMPO;16,5;5,0;ug/m3
+2025-11-14;CUATRO CAMINOS;46,7;11,0;ug/m3
+24/06/2025; Plaza Elíptica ;29,0;10,3;ug/m3
+15/11/2025;Plaza Elíptica;31,5;11,3;ug/m3
+2025-09-25;Cuatro Caminos;28,3;3,5;ug/m3
+2025-04-16;PLAZA ELIPTICA;-999,0;16,1;ug/m3
+2025-02-06;Casa de Campo;18,4;7,2;ug/m3
+2025-03-24;Plaza del Carmen ;34,0;8,7;ug/m3
+2025-09-03;PLAZA DEL CARMEN;33,4;5,1;ug/m3
+2025-10-18;Retiro;23,2;4,5;ug/m3
+2025-08-03;Pza. Elíptica;25,7;13,4;ug/m3
+2025-02-05;Plaza del Carmen ;50,5;10,6;ug/m3
+19/12/2025;casa de campo;9,6;11,1;ug/m3
+2025-08-20;Plaza Elíptica;35,6;9,7;ug/m3
+2025-10-05;CUATRO CAMINOS;25,8;7,7;ug/m3
+14/07/2025;ESCUELAS AGUIRRE;30,0;9,3;ug/m3
+2025-10-24;PLAZA DEL CARMEN;33,9;10,4;ug/m3
+17/07/2025;casa de campo;17,3;1,3;ug/m3
+2025-07-23;CUATRO CAMINOS;15,8;6,9;ug/m3
+2025-06-02;Parque del Retiro;24,1;2,7;ug/m3
+29/10/2025;Parque del Retiro;22,8;8,1;ug/m3
+05/02/2025;Pza. Elíptica;70,0;20,8;ug/m3
+2025-04-03;casa de campo;17,0;3,1;ug/m3
+2025-02-19;CUATRO CAMINOS;52,2;17,2;ug/m3
+2025-02-21; Plaza Elíptica ;64,5;12,0;ug/m3
+2025-03-22;PLAZA DEL CARMEN;26,9;11,4;ug/m3
+2025-10-17;CUATRO CAMINOS;46,9;10,2;ug/m3
+2025-05-20;RETIRO;23,8;4,2;ug/m3
+2025-12-30;Parque del Retiro;22,8;4,9;ug/m3
+2025-02-06;Retiro;37,8;8,8;ug/m3
+2025-07-20;Plaza del Carmen;18,0;6,7;ug/m3
+09/02/2025;Casa de Campo;15,7;4,5;ug/m3
+2025-06-25;Pza. Elíptica;38,4;14,6;ug/m3
+21/03/2025;Cuatro Caminos;44,0;14,1;ug/m3
+2025-03-01;Pza. Elíptica;34,1;18,5;ug/m3
+2025-08-07;PLAZA DEL CARMEN;-999,0;8,1;ug/m3
+24/05/2025;CASA DE CAMPO;16,8;4,1;ug/m3
+11/05/2025;Escuelas Aguirre;26,7;4,2;ug/m3
+2025-02-24;Plaza Elíptica;63,7;17,9;ug/m3
+2025-06-14;Escuelas Aguirre;26,8;10,5;ug/m3
+14/08/2025;Cuatro Caminos;27,1;5,9;ug/m3
+2025-01-03;escuelas aguirre;61,1;14,9;ug/m3
+30/04/2025;escuelas aguirre;-999,0;9,0;ug/m3
+2025-02-19;PLAZA DEL CARMEN;44,4;18,4;ug/m3
+03/10/2025;CASA DE CAMPO;10,3;6,3;ug/m3
+2025-06-27;CUATRO CAMINOS;35,3;11,8;ug/m3
+2025-10-26;ESCUELAS AGUIRRE;29,4;17,2;ug/m3
+2025-10-29;Casa de Campo;24,1;1,6;ug/m3
+2025-10-28;PLAZA ELIPTICA;51,4;17,9;ug/m3
+2025-05-07;casa de campo;11,8;3,2;ug/m3
+2025-06-07;Plaza del Carmen ;19,6;7,0;ug/m3
+2025-04-10;cuatro caminos ;39,7;5,3;ug/m3
+27/07/2025;Pza. Elíptica;22,9;7,1;ug/m3
+2025-10-03;Plaza del Carmen;31,1;5,8;ug/m3
+2025-09-01;RETIRO;13,5;2,0;ug/m3
+2025-10-21;CASA DE CAMPO;23,1;5,4;ug/m3
+2025-12-29;Plaza del Carmen ;42,7;14,5;ug/m3
+14/09/2025;Cuatro Caminos;30,9;11,5;ug/m3
+10/06/2025;Plaza del Carmen;38,5;1,4;ug/m3
+2025-02-03;cuatro caminos ;52,6;15,8;ug/m3
+2025-08-31;ESCUELAS AGUIRRE;20,4;12,9;ug/m3
+2025-04-01;Casa de Campo;21,8;9,4;ug/m3
+2025-10-22;PLAZA ELIPTICA;51,2;10,7;ug/m3
+2025-06-10;RETIRO;15,1;4,2;ug/m3
+2025-03-10;Plaza del Carmen;42,4;9,9;ug/m3
+2025-12-08;RETIRO;24,7;5,6;ug/m3
+2025-02-22;Retiro;21,0;6,0;ug/m3
+2025-10-04;CASA DE CAMPO;21,7;4,6;ug/m3
+18/01/2025;Casa de Campo;21,6;8,8;ug/m3
+02/09/2025;Cuatro Caminos;31,1;5,4;ug/m3
+2025-01-21;escuelas aguirre;46,7;12,7;ug/m3
+2025-03-14;PLAZA ELIPTICA;63,5;16,2;ug/m3
+2025-09-18;ESCUELAS AGUIRRE;33,5;11,2;ug/m3
+2025-12-23;Pza. Elíptica;57,1;18,9;ug/m3
+2025-06-30;Pza. Elíptica;36,4;12,2;ug/m3
+2025-09-15;cuatro caminos ;32,4;8,2;ug/m3
+2025-09-11;casa de campo;13,7;4,3;ug/m3
+2025-01-20;Escuelas Aguirre;52,1;18,1;ug/m3
+2025-01-13;Retiro;37,7;10,5;ug/m3
+2025-11-10;ESCUELAS AGUIRRE;43,9;14,9;ug/m3
+2025-03-12;Plaza del Carmen;-999,0;12,8;ug/m3
+2025-09-18;Plaza del Carmen ;20,3;8,8;ug/m3
+2025-11-28;CUATRO CAMINOS;50,9;9,7;ug/m3
+2025-06-15;Parque del Retiro;16,9;1,0;ug/m3
+29/03/2025;cuatro caminos ;28,1;15,5;ug/m3
+2025-06-27;PLAZA DEL CARMEN;25,4;4,7;ug/m3
+2025-10-18;CUATRO CAMINOS;25,3;11,5;ug/m3
+2025-12-20;Parque del Retiro;24,1;7,5;ug/m3
+2025-11-18;Plaza Elíptica;57,0;11,4;ug/m3
+20/11/2025;Parque del Retiro;-999,0;2,5;ug/m3
+2025-10-09;RETIRO;33,2;7,2;ug/m3
+07/09/2025;CUATRO CAMINOS;18,1;8,3;ug/m3
+2025-05-16;PLAZA DEL CARMEN;25,1;5,0;ug/m3
+2025-03-12; Plaza Elíptica ;56,4;15,3;ug/m3
+2025-04-24;PLAZA DEL CARMEN;27,9;9,5;ug/m3
+2025-09-26;Plaza del Carmen;20,9;7,8;ug/m3
+2025-07-15;casa de campo;12,4;3,7;ug/m3
+2025-08-31;Retiro;14,0;5,2;ug/m3
+2025-01-30;Retiro;33,8;8,4;ug/m3
+2025-11-03;escuelas aguirre;38,8;12,2;ug/m3
+2025-09-04;ESCUELAS AGUIRRE;34,8;7,7;ug/m3
+2025-05-09;Parque del Retiro;17,1;3,5;ug/m3
+08/04/2025;Plaza Elíptica;53,8;9,5;ug/m3
+2025-05-11;CUATRO CAMINOS;15,2;6,8;ug/m3
+06/07/2025;Escuelas Aguirre;23,6;9,5;ug/m3
+18/07/2025;Plaza del Carmen ;30,0;3,8;ug/m3
+2025-11-22;PLAZA ELIPTICA;50,1;15,8;ug/m3
+2025-03-10;Escuelas Aguirre;51,7;14,2;ug/m3
+2025-07-04;casa de campo;11,6;6,6;ug/m3
+15/06/2025;CASA DE CAMPO;9,4;4,1;ug/m3
+2025-11-22;escuelas aguirre;46,5;17,4;ug/m3
+2025-07-31;Cuatro Caminos;30,7;9,9;ug/m3
+2025-03-16;ESCUELAS AGUIRRE;30,2;14,0;ug/m3
+2025-07-25;escuelas aguirre;34,1;6,4;ug/m3
+2025-05-05;Plaza Elíptica;44,6;11,5;ug/m3
+2025-05-29;casa de campo;17,4;1,0;ug/m3
+11/08/2025;casa de campo;19,9;4,9;ug/m3
+2025-01-11;casa de campo;29,9;8,3;ug/m3
+2025-12-02;casa de campo;19,5;10,9;ug/m3
+2025-06-14;RETIRO;4,0;5,8;ug/m3
+2025-11-13;Retiro;13,2;3,2;ug/m3
+2025-06-03;CASA DE CAMPO;15,6;1,5;ug/m3
+2025-07-09;casa de campo;10,6;1,5;ug/m3
+05/08/2025;Plaza del Carmen;27,8;3,6;ug/m3
+2025-10-23;Casa de Campo;22,8;5,2;ug/m3
+2025-08-14;PLAZA DEL CARMEN;18,4;2,6;ug/m3
+2025-11-27;Plaza del Carmen ;49,8;14,4;ug/m3
+2025-10-31;Casa de Campo;21,6;2,2;ug/m3
+2025-06-23;CASA DE CAMPO;11,7;2,1;ug/m3
+2025-03-20;Casa de Campo;27,7;5,9;ug/m3
+2025-12-01;Escuelas Aguirre;47,1;-999,0;ug/m3
+11/12/2025;Cuatro Caminos;49,2;21,2;ug/m3
+2025-02-04;Escuelas Aguirre;55,9;16,5;ug/m3
+2025-03-30;RETIRO;17,2;5,1;ug/m3
+2025-04-19;PLAZA DEL CARMEN;33,7;8,9;ug/m3
+2025-10-26;casa de campo;21,9;6,4;ug/m3
+2025-04-02;Plaza del Carmen ;43,1;7,9;ug/m3
+2025-11-26;ESCUELAS AGUIRRE;44,0;20,3;ug/m3
+2025-10-10;Cuatro Caminos;43,6;7,6;ug/m3
+2025-05-24;ESCUELAS AGUIRRE;29,6;12,2;ug/m3
+2025-09-28; Plaza Elíptica ;34,0;16,0;ug/m3
+2025-01-04;cuatro caminos ;36,9;15,6;ug/m3
+2025-11-10;Plaza del Carmen;54,3;7,4;ug/m3
+13/03/2025;escuelas aguirre;48,5;12,8;ug/m3
+2025-04-09; Plaza Elíptica ;50,6;11,9;ug/m3
+2025-04-25;Plaza del Carmen;-999,0;8,6;ug/m3
+2025-02-03; Plaza Elíptica ;63,3;18,5;ug/m3
+09/01/2025;Escuelas Aguirre;51,4;15,6;ug/m3
+2025-01-29;Cuatro Caminos;58,7;13,2;ug/m3
+2025-07-21;RETIRO;8,9;6,0;ug/m3
+2025-04-17;ESCUELAS AGUIRRE;48,2;13,1;ug/m3
+2025-06-21;Casa de Campo;9,9;2,7;ug/m3
+2025-02-21;Plaza del Carmen;46,1;10,8;ug/m3
+2025-08-09;Pza. Elíptica;18,2;11,6;ug/m3
+2025-11-06;Parque del Retiro;27,6;7,4;ug/m3
+13/07/2025;Escuelas Aguirre;26,0;8,7;ug/m3
+2025-01-10;cuatro caminos ;54,3;14,4;ug/m3
+2025-01-12;CUATRO CAMINOS;36,7;16,6;ug/m3
+2025-05-21;ESCUELAS AGUIRRE;54,4;10,2;ug/m3
+2025-11-26;Casa de Campo;19,1;8,6;ug/m3
+2025-05-14;Pza. Elíptica;35,7;8,6;ug/m3
+2025-09-06;CUATRO CAMINOS;23,5;10,1;ug/m3
+2025-08-16;Plaza del Carmen ;16,8;8,8;ug/m3
+2025-05-31;CASA DE CAMPO;12,5;7,3;ug/m3
+2025-05-28;Parque del Retiro;14,7;3,2;ug/m3
+2025-07-18;Escuelas Aguirre;32,0;7,6;ug/m3
+2025-01-28;Pza. Elíptica;53,7;17,7;ug/m3
+2025-09-14;Escuelas Aguirre;27,6;8,1;ug/m3
+20/07/2025;Plaza Elíptica;22,2;6,6;ug/m3
+2025-07-05;PLAZA DEL CARMEN;20,7;5,5;ug/m3
+2025-11-16;Escuelas Aguirre;33,8;16,4;ug/m3
+13/11/2025;CUATRO CAMINOS;54,2;14,9;ug/m3
+30/06/2025;casa de campo;14,3;4,1;ug/m3
+2025-02-12;RETIRO;28,6;12,4;ug/m3
+2025-09-10;cuatro caminos ;38,2;6,9;ug/m3
+15/10/2025;Plaza del Carmen ;34,1;8,9;ug/m3
+2025-03-15;Plaza del Carmen;21,9;9,8;ug/m3
+14/04/2025; Plaza Elíptica ;43,3;12,4;ug/m3
+2025-04-07;CUATRO CAMINOS;35,7;8,7;ug/m3
+2025-03-21;Parque del Retiro;27,3;10,1;ug/m3
+2025-07-19;RETIRO;-999,0;5,1;ug/m3
+2025-04-13;CUATRO CAMINOS;29,8;9,3;ug/m3
+05/12/2025;Casa de Campo;31,6;2,4;ug/m3
+2025-08-02;Cuatro Caminos;11,1;8,9;ug/m3
+2025-01-04;Plaza del Carmen ;34,2;16,4;ug/m3
+04/11/2025;Plaza del Carmen;41,1;9,5;ug/m3
+2025-09-20;Escuelas Aguirre;22,5;11,4;ug/m3
+2025-12-03;CASA DE CAMPO;29,7;5,2;ug/m3
+05/03/2025;CASA DE CAMPO;26,6;10,7;ug/m3
+08/10/2025;Escuelas Aguirre;43,7;14,0;ug/m3
+2025-10-19;escuelas aguirre;36,2;10,6;ug/m3
+29/12/2025;Retiro;32,1;5,9;ug/m3
+2025-09-23;Escuelas Aguirre;43,3;9,1;ug/m3
+2025-10-13;escuelas aguirre;39,1;12,1;ug/m3
+2025-01-14;cuatro caminos ;-999,0;14,5;ug/m3
+18/03/2025;cuatro caminos ;50,5;15,4;ug/m3
+2025-06-18;Plaza del Carmen;23,1;3,2;ug/m3
+2025-05-20;Plaza del Carmen ;35,0;10,4;ug/m3
+04/05/2025;Parque del Retiro;21,6;7,1;ug/m3
+2025-08-03;RETIRO;2,2;1,0;ug/m3
+2025-08-06;PLAZA DEL CARMEN;23,9;4,1;ug/m3
+2025-07-08;Pza. Elíptica;34,7;7,2;ug/m3
+2025-03-24;CASA DE CAMPO;20,9;7,2;ug/m3
+04/03/2025;Plaza del Carmen ;43,4;14,3;ug/m3
+2025-02-15;PLAZA ELIPTICA;45,5;13,5;ug/m3
+2025-09-04;RETIRO;12,5;7,6;ug/m3
+2025-11-26;Cuatro Caminos;-999,0;14,9;ug/m3
+2025-12-17;PLAZA ELIPTICA;54,3;17,1;ug/m3
+06/10/2025;Casa de Campo;14,4;6,2;ug/m3
+19/03/2025;Plaza del Carmen;54,4;13,8;ug/m3
+2025-05-27;CASA DE CAMPO;16,8;5,3;ug/m3
+2025-11-03;PLAZA DEL CARMEN;36,0;15,8;ug/m3
+2025-06-10;Casa de Campo;18,3;5,6;ug/m3
+2025-03-13;CASA DE CAMPO;24,4;5,4;ug/m3
+2025-12-16;Retiro;33,7;8,4;ug/m3
+2025-01-05;escuelas aguirre;43,4;19,5;ug/m3
+17/09/2025;escuelas aguirre;17,0;6,0;ug/m3
+2025-09-08;Cuatro Caminos;22,6;6,6;ug/m3
+18/03/2025;PLAZA DEL CARMEN;42,4;14,2;ug/m3
+06/06/2025;Retiro;21,2;9,1;ug/m3
+2025-10-08;Retiro;17,1;7,0;ug/m3
+2025-01-14;Pza. Elíptica;72,7;14,1;ug/m3
+03/03/2025;PLAZA ELIPTICA;62,2;15,9;ug/m3
+2025-09-09; Plaza Elíptica ;34,6;3,7;ug/m3
+2025-01-06;Plaza del Carmen ;40,0;10,8;ug/m3
+2025-12-12;Plaza Elíptica;57,4;18,7;ug/m3
+2025-08-30;cuatro caminos ;37,3;6,4;ug/m3
+2025-12-21;CUATRO CAMINOS;47,6;13,7;ug/m3
+18/11/2025;Casa de Campo;19,7;5,5;ug/m3
+2025-09-21;RETIRO;29,5;4,7;ug/m3
+2025-05-17;PLAZA ELIPTICA;25,7;11,1;ug/m3
+2025-06-05;escuelas aguirre;35,7;9,0;ug/m3
+2025-07-13;cuatro caminos ;9,1;5,9;ug/m3
+2025-02-20;CUATRO CAMINOS;48,0;12,8;ug/m3
+2025-02-04;Cuatro Caminos;40,5;14,0;ug/m3
+2025-04-14;CASA DE CAMPO;15,4;3,4;ug/m3
+2025-08-02;PLAZA ELIPTICA;29,7;6,5;ug/m3
+2025-09-23;Plaza Elíptica;51,1;9,0;ug/m3
+2025-10-17;Plaza del Carmen ;32,4;15,3;ug/m3
+2025-04-03;PLAZA ELIPTICA;52,9;17,7;ug/m3
+2025-04-26;Cuatro Caminos;35,4;10,6;ug/m3
+27/03/2025;Parque del Retiro;27,9;7,5;ug/m3
+2025-04-22;Parque del Retiro;22,1;7,3;ug/m3
+2025-12-29;Casa de Campo;30,1;7,6;ug/m3
+2025-03-22;Casa de Campo;9,6;4,5;ug/m3
+06/07/2025;cuatro caminos ;28,1;9,4;ug/m3
+2025-07-31;RETIRO;9,4;-999,0;ug/m3
+10/04/2025;PLAZA DEL CARMEN;44,8;9,2;ug/m3
+30/06/2025;Cuatro Caminos;27,8;7,7;ug/m3
+2025-10-23;cuatro caminos ;44,3;11,7;ug/m3
+2025-03-10;CASA DE CAMPO;12,9;7,5;ug/m3
+2025-04-19;Escuelas Aguirre;22,3;11,0;ug/m3
+2025-12-30;CUATRO CAMINOS;42,2;14,8;ug/m3
+2025-07-17;Cuatro Caminos;31,8;10,9;ug/m3
+2025-04-26;Retiro;11,6;6,0;ug/m3
+2025-10-12;cuatro caminos ;33,3;9,0;ug/m3
+2025-09-01;cuatro caminos ;37,8;7,0;ug/m3
+2025-08-13;Pza. Elíptica;29,3;3,0;ug/m3
+2025-03-16;CASA DE CAMPO;19,9;7,5;ug/m3
+2025-05-02;Casa de Campo;11,5;3,2;ug/m3
+25/10/2025;casa de campo;7,9;9,1;ug/m3
+2025-05-08;Cuatro Caminos;29,4;10,9;ug/m3
+2025-07-27;CUATRO CAMINOS;7,0;7,0;ug/m3
+2025-05-21;Cuatro Caminos;24,1;10,3;ug/m3
+2025-01-08;Casa de Campo;25,3;4,1;ug/m3
+2025-11-03;Plaza Elíptica;52,1;17,0;ug/m3
+2025-04-09;PLAZA DEL CARMEN;36,6;7,2;ug/m3
+2025-02-19; Plaza Elíptica ;63,6;23,1;ug/m3
+2025-05-09;CASA DE CAMPO;19,3;1,0;ug/m3
+2025-12-09;casa de campo;18,3;8,5;ug/m3
+08/05/2025;casa de campo;21,2;5,5;ug/m3
+2025-06-04;cuatro caminos ;21,5;9,1;ug/m3
+2025-10-14;ESCUELAS AGUIRRE;38,5;9,1;ug/m3
+2025-03-14;RETIRO;26,9;7,2;ug/m3
+15/04/2025;cuatro caminos ;36,4;16,3;ug/m3
+2025-03-07;casa de campo;21,8;3,3;ug/m3
+27/04/2025;Retiro;24,7;4,9;ug/m3
+2025-03-31;Pza. Elíptica;53,2;12,3;ug/m3
+2025-01-06;PLAZA ELIPTICA;63,6;15,5;ug/m3
+2025-04-06;Escuelas Aguirre;32,6;11,1;ug/m3
+2025-08-13;escuelas aguirre;39,0;9,6;ug/m3
+2025-06-07;Plaza Elíptica;17,4;10,6;ug/m3
+2025-10-29;cuatro caminos ;46,6;13,6;ug/m3
+2025-11-09;Plaza del Carmen ;33,8;11,2;ug/m3
+2025-05-25;ESCUELAS AGUIRRE;30,7;13,0;ug/m3
+12/04/2025;Parque del Retiro;17,1;1,4;ug/m3
+27/02/2025;Plaza del Carmen;40,9;9,2;ug/m3
+2025-04-03;Parque del Retiro;18,6;8,3;ug/m3
+2025-06-12;Plaza del Carmen ;6,2;8,8;ug/m3
+2025-12-30;PLAZA DEL CARMEN;47,7;9,4;ug/m3
+13/12/2025;casa de campo;25,7;5,4;ug/m3
+28/02/2025;Parque del Retiro;18,9;6,4;ug/m3
+2025-01-16;Escuelas Aguirre;64,6;15,0;ug/m3
+2025-05-22;CASA DE CAMPO;-999,0;7,0;ug/m3
+2025-11-25;Casa de Campo;17,8;5,3;ug/m3
+2025-06-26;CUATRO CAMINOS;35,0;8,5;ug/m3
+2025-08-03;Plaza del Carmen;15,0;7,2;ug/m3
+2025-02-13;casa de campo;-999,0;8,6;ug/m3
+2025-11-30;Plaza del Carmen;37,2;13,5;ug/m3
+2025-11-30;casa de campo;15,8;6,8;ug/m3
+2025-09-20;Retiro;14,8;6,5;ug/m3
+2025-04-05;casa de campo;24,1;7,1;ug/m3
+01/05/2025;escuelas aguirre;41,7;8,9;ug/m3
+29/05/2025;RETIRO;10,4;2,4;ug/m3
+2025-04-28;CASA DE CAMPO;22,4;1,0;ug/m3
+2025-12-07;cuatro caminos ;31,2;8,0;ug/m3
+27/08/2025;Escuelas Aguirre;39,8;11,9;ug/m3
+20/02/2025;Plaza Elíptica;60,7;22,5;ug/m3
+2025-11-08;RETIRO;13,5;12,2;ug/m3
+2025-06-17;Plaza del Carmen;26,5;5,5;ug/m3
+2025-11-02;casa de campo;18,4;11,6;ug/m3
+2025-02-22;Casa de Campo;11,5;4,6;ug/m3
+2025-09-29;CASA DE CAMPO;19,7;7,4;ug/m3
+2025-03-17;Casa de Campo;13,4;9,9;ug/m3
+30/01/2025;Escuelas Aguirre;58,8;10,9;ug/m3
+2025-04-26;casa de campo;15,2;1,0;ug/m3
+2025-09-25; Plaza Elíptica ;51,3;8,9;ug/m3
+17/11/2025;escuelas aguirre;48,6;10,4;ug/m3
+21/01/2025;CASA DE CAMPO;20,5;5,2;ug/m3
+2025-12-22;PLAZA DEL CARMEN;44,6;14,6;ug/m3
+07/03/2025;Retiro;27,5;4,5;ug/m3
+2025-07-07;PLAZA DEL CARMEN;22,7;6,8;ug/m3
+08/10/2025;Casa de Campo;16,1;6,6;ug/m3
+2025-01-07;Casa de Campo;17,6;4,6;ug/m3
+2025-03-19;PLAZA ELIPTICA;67,2;14,3;ug/m3
+16/04/2025;PLAZA DEL CARMEN;44,7;11,8;ug/m3
+2025-12-09;PLAZA DEL CARMEN;47,3;10,0;ug/m3
+2025-02-25;ESCUELAS AGUIRRE;45,9;12,8;ug/m3
+2025-02-02;Plaza del Carmen ;38,9;14,3;ug/m3
+17/12/2025;RETIRO;29,6;5,0;ug/m3
+2025-02-23;Retiro;14,9;2,0;ug/m3
+14/02/2025;PLAZA DEL CARMEN;39,7;15,9;ug/m3
+2025-06-22;Retiro;7,5;1,6;ug/m3
+2025-10-13;Casa de Campo;-999,0;3,2;ug/m3
+2025-04-07;Casa de Campo;-999,0;9,3;ug/m3
+2025-07-16;ESCUELAS AGUIRRE;40,9;8,2;ug/m3
+2025-07-31; Plaza Elíptica ;31,5;11,1;ug/m3
+11/05/2025;Escuelas Aguirre;26,7;4,2;ug/m3
+10/10/2025;PLAZA ELIPTICA;47,8;11,0;ug/m3
+23/04/2025;Plaza del Carmen;38,2;5,4;ug/m3
+2025-10-20;Plaza del Carmen;37,2;11,7;ug/m3
+2025-12-13;Parque del Retiro;32,1;2,1;ug/m3
+2025-11-20;Plaza Elíptica;61,2;19,0;ug/m3
+2025-12-22;Parque del Retiro;24,2;4,2;ug/m3
+2025-06-20;Cuatro Caminos;14,7;11,1;ug/m3
+06/04/2025;Plaza del Carmen;-999,0;6,6;ug/m3
+2025-11-02;Pza. Elíptica;35,8;13,8;ug/m3
+11/11/2025;Casa de Campo;24,2;5,5;ug/m3
+2025-05-29;Escuelas Aguirre;31,3;7,8;ug/m3
+2025-05-17;ESCUELAS AGUIRRE;16,0;7,5;ug/m3
+2025-09-04;CUATRO CAMINOS;31,0;4,7;ug/m3
+20/10/2025;casa de campo;28,9;3,7;ug/m3
+2025-09-20;Cuatro Caminos;26,1;7,1;ug/m3
+2025-06-01;Plaza Elíptica;31,8;8,6;ug/m3
+24/09/2025;PLAZA DEL CARMEN;28,4;5,5;ug/m3
+2025-04-19;CASA DE CAMPO;19,0;5,8;ug/m3
+23/04/2025;Plaza del Carmen;38,2;5,4;ug/m3
+14/12/2025;Casa de Campo;25,1;5,3;ug/m3
+2025-03-02;CUATRO CAMINOS;35,2;13,6;ug/m3
+2025-05-21;Plaza Elíptica;46,8;11,3;ug/m3
+2025-07-23;Retiro;20,5;1,0;ug/m3
+2025-11-14;Plaza Elíptica;61,4;16,7;ug/m3
+11/11/2025;escuelas aguirre;48,4;11,8;ug/m3
+08/04/2025;ESCUELAS AGUIRRE;44,8;6,7;ug/m3
+05/05/2025;PLAZA DEL CARMEN;19,5;5,3;ug/m3
+2025-12-30;ESCUELAS AGUIRRE;55,1;15,4;ug/m3
+18/10/2025;ESCUELAS AGUIRRE;33,8;7,0;ug/m3
+2025-12-24;Plaza del Carmen ;52,4;11,2;ug/m3
+2025-09-28;escuelas aguirre;32,0;11,7;ug/m3
+17/10/2025;casa de campo;19,6;4,3;ug/m3
+2025-10-11;Cuatro Caminos;28,4;14,5;ug/m3
+24/09/2025;CUATRO CAMINOS;30,0;11,7;ug/m3
+2025-02-23; Plaza Elíptica ;39,0;14,2;ug/m3
+01/07/2025;PLAZA ELIPTICA;24,7;12,5;ug/m3
+2025-06-14;Plaza del Carmen;17,2;6,4;ug/m3
+2025-07-16;Plaza Elíptica;31,4;7,6;ug/m3
+2025-05-17;CASA DE CAMPO;17,1;2,3;ug/m3
+2025-07-19;Plaza Elíptica;28,8;11,6;ug/m3
+2025-02-27;ESCUELAS AGUIRRE;58,1;13,5;ug/m3
+08/03/2025;Plaza del Carmen ;29,2;11,3;ug/m3
+2025-04-08;PLAZA DEL CARMEN;39,1;11,0;ug/m3
+2025-10-14;CASA DE CAMPO;18,7;1,6;ug/m3
+2025-11-25;Parque del Retiro;25,6;9,2;ug/m3
+2025-02-18;RETIRO;27,9;6,9;ug/m3
+2025-05-25;cuatro caminos ;21,9;7,8;ug/m3
+2025-07-05;PLAZA ELIPTICA;15,7;8,5;ug/m3
+2025-06-20;CASA DE CAMPO;18,4;1,0;ug/m3
+2025-07-27;Casa de Campo;13,7;6,5;ug/m3
+2025-01-24;CASA DE CAMPO;21,7;7,6;ug/m3
+2025-07-07;casa de campo;2,0;4,7;ug/m3
+2025-01-01;Plaza del Carmen ;52,2;15,1;ug/m3
+2025-04-07;PLAZA ELIPTICA;51,1;13,8;ug/m3
+2025-08-18;CUATRO CAMINOS;35,1;7,8;ug/m3
+2025-02-26;CASA DE CAMPO;18,5;6,1;ug/m3
+2025-10-09;CUATRO CAMINOS;42,4;9,3;ug/m3
+2025-02-14;Escuelas Aguirre;39,5;16,9;ug/m3
+2025-03-04;RETIRO;28,6;6,9;ug/m3
+01/12/2025;Plaza del Carmen;42,4;13,4;ug/m3
+15/03/2025;ESCUELAS AGUIRRE;44,1;15,5;ug/m3
+2025-02-15;Escuelas Aguirre;33,5;17,5;ug/m3
+10/02/2025;Parque del Retiro;22,6;4,8;ug/m3
+2025-10-27;ESCUELAS AGUIRRE;32,9;10,0;ug/m3
+2025-09-27;Cuatro Caminos;21,6;13,9;ug/m3
+01/07/2025;Escuelas Aguirre;29,6;10,3;ug/m3
+2025-09-12;PLAZA DEL CARMEN;23,9;3,3;ug/m3
+2025-04-12;ESCUELAS AGUIRRE;35,3;16,1;ug/m3
+2025-03-11;Escuelas Aguirre;44,6;15,8;ug/m3
+2025-02-15;casa de campo;23,9;7,7;ug/m3
+2025-07-01;Cuatro Caminos;31,0;8,2;ug/m3
+2025-02-11;Retiro;32,3;6,7;ug/m3
+2025-03-10;cuatro caminos ;52,8;12,4;ug/m3
+2025-09-06;Casa de Campo;24,6;3,5;ug/m3
+2025-09-18;PLAZA ELIPTICA;32,6;10,8;ug/m3
+2025-02-21;Retiro;-999,0;10,9;ug/m3
+13/05/2025;Pza. Elíptica;42,5;13,0;ug/m3
+2025-07-15;cuatro caminos ;29,2;5,0;ug/m3
+12/03/2025;cuatro caminos ;48,6;15,4;ug/m3
+2025-12-24;Parque del Retiro;24,8;7,2;ug/m3
+2025-05-04;casa de campo;22,9;4,6;ug/m3
+2025-11-21;Plaza Elíptica;51,6;13,5;ug/m3
+2025-09-27;CASA DE CAMPO;18,6;4,0;ug/m3
+2025-06-13;escuelas aguirre;15,5;13,0;ug/m3
+2025-07-24;CUATRO CAMINOS;23,7;4,3;ug/m3
+2025-05-08;PLAZA DEL CARMEN;35,1;9,3;ug/m3
+2025-03-29;RETIRO;16,5;12,2;ug/m3
+2025-05-11; Plaza Elíptica ;27,7;8,0;ug/m3
+2025-06-08;Parque del Retiro;10,3;2,9;ug/m3
+2025-01-31;Plaza del Carmen;44,3;13,2;ug/m3
+29/01/2025;Plaza del Carmen ;40,1;12,2;ug/m3
+2025-12-21;Retiro;20,8;5,7;ug/m3
+2025-06-04;PLAZA DEL CARMEN;29,7;5,4;ug/m3
+01/02/2025;Escuelas Aguirre;35,2;17,0;ug/m3
+14/04/2025;Escuelas Aguirre;45,7;14,1;ug/m3
+2025-11-26;Pza. Elíptica;63,8;15,2;ug/m3
+2025-01-27;PLAZA DEL CARMEN;47,1;13,7;ug/m3
+2025-09-23;Casa de Campo;-999,0;3,8;ug/m3
+2025-02-15;Plaza del Carmen;38,1;14,4;ug/m3
+2025-04-13;Plaza del Carmen ;23,1;9,6;ug/m3
+2025-11-05;Casa de Campo;15,2;6,6;ug/m3
+12/06/2025;escuelas aguirre;21,9;8,4;ug/m3
+23/12/2025;CUATRO CAMINOS;59,1;16,6;ug/m3
+2025-03-03;CUATRO CAMINOS;54,8;17,8;ug/m3
+2025-02-07;Plaza Elíptica;61,8;16,3;ug/m3
+2025-04-09;cuatro caminos ;34,1;10,1;ug/m3
+2025-09-15;PLAZA DEL CARMEN;21,0;8,0;ug/m3
+2025-05-07;PLAZA ELIPTICA;47,6;11,5;ug/m3
+2025-10-03;Parque del Retiro;26,7;6,9;ug/m3
+2025-12-07; Plaza Elíptica ;41,7;14,2;ug/m3
+2025-01-23;Retiro;19,9;9,5;ug/m3
+2025-03-28;PLAZA DEL CARMEN;28,9;10,6;ug/m3
+2025-05-23;RETIRO;16,7;8,3;ug/m3
+2025-02-25;Retiro;18,9;7,9;ug/m3
+2025-11-09; Plaza Elíptica ;37,0;13,4;ug/m3
+2025-10-23;Pza. Elíptica;57,5;12,6;ug/m3
+2025-07-29;escuelas aguirre;29,1;5,8;ug/m3
+2025-07-24;Retiro;19,6;2,7;ug/m3
+2025-04-29;PLAZA DEL CARMEN;41,0;8,9;ug/m3
+2025-01-03;Casa de Campo;28,3;5,7;ug/m3
+2025-07-06;RETIRO;3,4;2,5;ug/m3
+2025-07-05;Escuelas Aguirre;29,0;8,7;ug/m3
+03/11/2025;casa de campo;25,3;8,8;ug/m3
+2025-12-02;CUATRO CAMINOS;50,2;14,4;ug/m3
+2025-04-06;Pza. Elíptica;27,4;12,7;ug/m3
+2025-04-20; Plaza Elíptica ;33,4;9,0;ug/m3
+2025-08-15;cuatro caminos ;20,4;9,3;ug/m3
+2025-12-10;PLAZA ELIPTICA;-999,0;17,6;ug/m3
+2025-03-19;casa de campo;28,2;4,8;ug/m3
+2025-06-26;Plaza del Carmen;17,5;5,6;ug/m3
+2025-02-03;escuelas aguirre;62,5;14,6;ug/m3
+2025-11-17;Parque del Retiro;22,4;7,2;ug/m3
+09/09/2025;CUATRO CAMINOS;40,4;10,8;ug/m3
+2025-10-19;Casa de Campo;13,7;3,9;ug/m3
+2025-05-26;casa de campo;-999,0;8,1;ug/m3
+2025-11-07;escuelas aguirre;53,0;10,7;ug/m3
+2025-10-07;CASA DE CAMPO;24,9;4,3;ug/m3
+2025-09-16;Plaza del Carmen ;29,0;8,9;ug/m3
+2025-07-05;RETIRO;12,8;7,6;ug/m3
+2025-04-09;Casa de Campo;18,8;1,0;ug/m3
+2025-11-04; Plaza Elíptica ;50,9;12,3;ug/m3
+2025-10-06;CUATRO CAMINOS;35,9;9,5;ug/m3
+2025-10-10;Plaza del Carmen;33,2;5,6;ug/m3
+25/09/2025;PLAZA DEL CARMEN;27,1;12,7;ug/m3
+06/06/2025;cuatro caminos ;25,1;5,6;ug/m3
+2025-05-12;ESCUELAS AGUIRRE;28,0;11,0;ug/m3
+2025-01-08;Escuelas Aguirre;59,5;14,6;ug/m3
+2025-10-22;PLAZA DEL CARMEN;40,2;13,1;ug/m3
+15/02/2025;RETIRO;27,2;6,2;ug/m3
+2025-10-16;RETIRO;21,7;12,4;ug/m3
+17/01/2025;Cuatro Caminos;56,7;14,3;ug/m3
+2025-07-08;CASA DE CAMPO;19,8;1,0;ug/m3
+2025-06-21;escuelas aguirre;16,6;8,1;ug/m3
+2025-07-16;CUATRO CAMINOS;27,6;6,6;ug/m3
+2025-01-18;cuatro caminos ;39,1;18,6;ug/m3
+04/09/2025;Pza. Elíptica;37,4;13,3;ug/m3
+2025-03-24;Cuatro Caminos;42,2;11,7;ug/m3
+2025-01-19;Escuelas Aguirre;44,1;12,0;ug/m3
+13/09/2025;ESCUELAS AGUIRRE;23,0;7,9;ug/m3
+2025-12-06; Plaza Elíptica ;45,2;17,1;ug/m3
+2025-08-30;Plaza del Carmen;23,9;7,7;ug/m3
+21/10/2025;cuatro caminos ;42,2;13,3;ug/m3
+2025-08-08;RETIRO;13,4;3,6;ug/m3
+2025-09-15;escuelas aguirre;28,8;12,5;ug/m3
+2025-12-01;Retiro;28,0;9,2;ug/m3
+2025-05-24;Retiro;9,0;3,0;ug/m3
+2025-05-31;Cuatro Caminos;20,9;7,0;ug/m3
+2025-04-29;Retiro;21,3;9,8;ug/m3
+2025-01-13;Pza. Elíptica;69,9;16,7;ug/m3
+2025-03-25;Plaza del Carmen ;34,9;10,0;ug/m3
+29/08/2025;Plaza del Carmen ;19,7;3,1;ug/m3
+2025-08-20;Casa de Campo;4,5;3,0;ug/m3
+24/09/2025;casa de campo;20,9;4,2;ug/m3
+22/03/2025;ESCUELAS AGUIRRE;34,5;17,5;ug/m3
+28/08/2025;casa de campo;15,9;6,1;ug/m3
+2025-03-26;Plaza del Carmen ;34,8;13,8;ug/m3
+2025-11-06;ESCUELAS AGUIRRE;36,1;14,5;ug/m3
+2025-12-17;CASA DE CAMPO;29,7;10,6;ug/m3
+2025-07-30;casa de campo;19,1;5,8;ug/m3
+2025-09-20;Escuelas Aguirre;22,5;11,4;ug/m3
+2025-06-22;PLAZA DEL CARMEN;9,8;11,7;ug/m3
+2025-09-20;Plaza Elíptica;22,7;-999,0;ug/m3
+05/06/2025;PLAZA DEL CARMEN;28,8;11,0;ug/m3
+2025-10-12;Plaza del Carmen ;22,5;10,8;ug/m3
+2025-08-25;Plaza del Carmen ;34,0;4,2;ug/m3
+21/02/2025;Cuatro Caminos;54,6;15,1;ug/m3
+03/07/2025;cuatro caminos ;27,0;9,9;ug/m3
+09/03/2025;Casa de Campo;21,7;5,9;ug/m3
+25/10/2025;Parque del Retiro;28,7;9,5;ug/m3
+2025-06-24;CASA DE CAMPO;20,3;5,1;ug/m3
+2025-08-26;Escuelas Aguirre;-999,0;6,0;ug/m3
+2025-07-01;Casa de Campo;8,9;3,7;ug/m3
+2025-08-15;Parque del Retiro;8,8;8,0;ug/m3
+2025-02-21;CASA DE CAMPO;15,5;1,0;ug/m3
+2025-02-07;Parque del Retiro;34,1;11,9;ug/m3
+04/05/2025;cuatro caminos ;21,2;10,0;ug/m3
+2025-05-15;Plaza del Carmen ;25,5;5,6;ug/m3
+2025-12-05;cuatro caminos ;51,8;16,4;ug/m3
+2025-06-17;CASA DE CAMPO;23,8;7,0;ug/m3
+2025-09-02;CASA DE CAMPO;4,8;1,0;ug/m3
+2025-11-01;Casa de Campo;-999,0;2,7;ug/m3
+2025-07-03;RETIRO;13,4;4,0;ug/m3
+2025-07-11;CUATRO CAMINOS;28,0;6,8;ug/m3
+2025-06-29;escuelas aguirre;15,0;8,7;ug/m3
+25/01/2025;Retiro;20,5;11,9;ug/m3
+25/07/2025;Casa de Campo;16,1;1,0;ug/m3
+04/07/2025;PLAZA ELIPTICA;25,1;11,4;ug/m3
+2025-10-15;Casa de Campo;30,2;6,2;ug/m3
+2025-02-18;Casa de Campo;21,6;4,2;ug/m3
+2025-04-26;Plaza del Carmen ;23,3;13,4;ug/m3
+2025-05-17;PLAZA DEL CARMEN;21,3;8,6;ug/m3
+2025-04-28;Plaza del Carmen;35,5;14,3;ug/m3
+02/07/2025;PLAZA DEL CARMEN;25,4;10,3;ug/m3
+2025-11-21;Cuatro Caminos;48,8;15,9;ug/m3
+2025-08-22;cuatro caminos ;26,4;5,0;ug/m3
+2025-04-06;Cuatro Caminos;34,6;11,6;ug/m3
+2025-04-03;CUATRO CAMINOS;50,1;14,7;ug/m3
+08/08/2025;Casa de Campo;2,0;1,2;ug/m3
+2025-04-27;CUATRO CAMINOS;27,7;6,5;ug/m3
+2025-09-23;Plaza del Carmen;33,6;11,5;ug/m3
+2025-08-18;PLAZA DEL CARMEN;20,8;11,6;ug/m3
+2025-11-17;Cuatro Caminos;41,7;10,9;ug/m3
+2025-09-26;Pza. Elíptica;32,2;9,1;ug/m3
+2025-11-24;escuelas aguirre;55,1;17,1;ug/m3
+2025-05-05;Parque del Retiro;16,9;2,9;ug/m3
+2025-08-19;PLAZA DEL CARMEN;21,7;11,7;ug/m3
+26/05/2025;RETIRO;12,8;3,3;ug/m3
+2025-01-28;cuatro caminos ;46,8;13,8;ug/m3
+2025-05-02;Retiro;22,6;4,6;ug/m3
+19/10/2025; Plaza Elíptica ;34,4;15,1;ug/m3
+17/02/2025;Parque del Retiro;32,7;8,6;ug/m3
+28/06/2025;casa de campo;17,6;1,8;ug/m3
+2025-11-16;Pza. Elíptica;37,1;13,4;ug/m3
+2025-06-22;ESCUELAS AGUIRRE;19,5;9,8;ug/m3
+2025-04-15;RETIRO;27,8;4,2;ug/m3
+2025-04-10;Retiro;25,4;8,2;ug/m3
+2025-09-23;Plaza Elíptica;51,1;9,0;ug/m3
+2025-03-04;cuatro caminos ;48,5;16,5;ug/m3
+23/11/2025;Pza. Elíptica;-999,0;17,6;ug/m3
+25/09/2025;Casa de Campo;14,5;9,5;ug/m3
+2025-12-21; Plaza Elíptica ;47,1;24,2;ug/m3
+26/07/2025;cuatro caminos ;34,2;10,6;ug/m3
+01/09/2025;ESCUELAS AGUIRRE;40,1;10,0;ug/m3
+2025-06-30;RETIRO;19,4;6,3;ug/m3
+07/01/2025;CUATRO CAMINOS;41,6;15,0;ug/m3
+11/11/2025;Plaza del Carmen ;33,6;12,2;ug/m3
+08/11/2025;CUATRO CAMINOS;30,8;11,7;ug/m3
+2025-08-27;Plaza del Carmen;24,7;11,4;ug/m3
+2025-11-06;CASA DE CAMPO;21,7;5,9;ug/m3
+2025-06-26;ESCUELAS AGUIRRE;22,6;4,9;ug/m3
+09/09/2025;Plaza del Carmen;23,2;7,0;ug/m3
+24/12/2025;casa de campo;22,8;11,0;ug/m3
+2025-04-12;casa de campo;24,3;6,9;ug/m3
+21/09/2025;PLAZA DEL CARMEN;16,5;14,8;ug/m3
+16/09/2025;cuatro caminos ;31,0;11,4;ug/m3
+21/11/2025;Escuelas Aguirre;51,2;16,8;ug/m3
+2025-06-17;Plaza del Carmen;26,5;5,5;ug/m3
+2025-10-06;Retiro;23,4;5,6;ug/m3
+2025-03-24;Escuelas Aguirre;38,6;15,9;ug/m3
+2025-09-20;Plaza del Carmen ;21,7;10,5;ug/m3
+16/02/2025;Escuelas Aguirre;37,5;17,6;ug/m3
+2025-05-07;Escuelas Aguirre;38,6;10,9;ug/m3
+2025-12-22;PLAZA ELIPTICA;62,3;19,2;ug/m3
+01/03/2025;Retiro;17,9;5,1;ug/m3
+18/09/2025;CASA DE CAMPO;16,6;3,1;ug/m3
+2025-02-09;PLAZA DEL CARMEN;27,2;9,9;ug/m3
+02/04/2025;CUATRO CAMINOS;43,8;12,4;ug/m3
+2025-03-28;Parque del Retiro;26,7;7,0;ug/m3
+2025-08-01;PLAZA ELIPTICA;24,8;8,9;ug/m3
+2025-02-04;Parque del Retiro;33,0;9,0;ug/m3
+04/10/2025;escuelas aguirre;27,3;6,6;ug/m3
+2025-05-27;CUATRO CAMINOS;28,1;8,7;ug/m3
+2025-05-01;Plaza Elíptica;42,2;10,6;ug/m3
+2025-12-28;Parque del Retiro;23,0;5,2;ug/m3
+2025-11-08;escuelas aguirre;28,5;14,0;ug/m3
+2025-10-05;Parque del Retiro;20,3;1,5;ug/m3
+2025-01-10;Parque del Retiro;35,2;9,4;ug/m3
+16/04/2025;ESCUELAS AGUIRRE;42,9;8,5;ug/m3
+2025-11-12;PLAZA DEL CARMEN;53,6;15,5;ug/m3
+2025-07-29;Parque del Retiro;13,4;6,2;ug/m3
+09/04/2025;Retiro;33,9;3,9;ug/m3
+2025-12-04;CASA DE CAMPO;22,6;3,8;ug/m3
+02/03/2025;Casa de Campo;27,1;2,3;ug/m3
+2025-10-30;CUATRO CAMINOS;51,2;14,5;ug/m3
+2025-03-26;ESCUELAS AGUIRRE;48,6;13,2;ug/m3
+2025-10-13;Pza. Elíptica;52,8;12,8;ug/m3
+2025-12-21;Plaza del Carmen;37,6;11,8;ug/m3
+2025-08-11;Parque del Retiro;7,6;2,4;ug/m3
+2025-11-15;Cuatro Caminos;34,9;10,3;ug/m3
+31/05/2025;RETIRO;6,6;5,7;ug/m3
+03/05/2025;escuelas aguirre;32,3;10,5;ug/m3
+29/08/2025;Retiro;23,8;1,3;ug/m3
+21/12/2025;Escuelas Aguirre;-999,0;14,9;ug/m3
+2025-07-17; Plaza Elíptica ;23,2;9,1;ug/m3
+19/07/2025;Plaza del Carmen;16,2;8,4;ug/m3
+2025-09-17;Plaza Elíptica;47,4;5,7;ug/m3
+2025-01-20;Retiro;28,2;9,2;ug/m3
+2025-12-18;Pza. Elíptica;59,2;23,1;ug/m3
+2025-04-28;RETIRO;12,6;7,3;ug/m3
+2025-11-18;cuatro caminos ;51,4;13,6;ug/m3
+05/05/2025;Escuelas Aguirre;26,9;10,8;ug/m3
+2025-03-29;Pza. Elíptica;50,9;16,5;ug/m3
+02/06/2025;casa de campo;7,4;1,5;ug/m3
+2025-08-24;ESCUELAS AGUIRRE;17,8;7,1;ug/m3
+2025-09-19;casa de campo;7,4;4,7;ug/m3
+16/06/2025;Plaza del Carmen ;19,7;8,1;ug/m3
+2025-03-27;casa de campo;19,7;4,7;ug/m3
+14/01/2025;CASA DE CAMPO;20,3;7,1;ug/m3
+09/11/2025;Cuatro Caminos;53,4;15,8;ug/m3
+20/06/2025;Plaza del Carmen ;12,7;9,6;ug/m3
+2025-08-09;Plaza del Carmen;31,8;9,8;ug/m3
+2025-06-02;Plaza del Carmen ;18,3;9,3;ug/m3
+2025-03-05;Plaza del Carmen ;39,8;10,5;ug/m3
+2025-09-10;Plaza Elíptica;39,0;8,9;ug/m3
+03/12/2025;RETIRO;33,8;1,0;ug/m3
+2025-01-15;Plaza Elíptica;57,0;14,4;ug/m3
+2025-11-30;Cuatro Caminos;39,6;10,9;ug/m3
+23/04/2025;PLAZA ELIPTICA;43,4;11,6;ug/m3
+2025-05-10;Plaza Elíptica;30,5;10,8;ug/m3
+2025-02-24;cuatro caminos ;54,3;14,3;ug/m3
+2025-01-02;PLAZA ELIPTICA;77,2;17,0;ug/m3
+2025-06-07;Escuelas Aguirre;19,5;7,0;ug/m3
+2025-07-24;PLAZA DEL CARMEN;21,0;7,8;ug/m3
+25/09/2025;Parque del Retiro;16,2;3,5;ug/m3
+2025-06-01;Casa de Campo;9,2;5,7;ug/m3
+20/03/2025;Plaza Elíptica;55,7;18,8;ug/m3
+2025-01-31;ESCUELAS AGUIRRE;53,6;9,5;ug/m3
+2025-01-28;Plaza del Carmen;54,7;15,9;ug/m3
+2025-09-15;RETIRO;22,6;4,7;ug/m3
+2025-03-17;Escuelas Aguirre;49,8;11,8;ug/m3
+17/12/2025;escuelas aguirre;65,5;15,7;ug/m3
+2025-03-23;Retiro;30,2;5,2;ug/m3
+2025-08-08;PLAZA DEL CARMEN;32,4;8,4;ug/m3
+2025-10-23;Plaza del Carmen ;40,7;-999,0;ug/m3
+2025-02-17;cuatro caminos ;49,3;20,1;ug/m3
+2025-11-19;Casa de Campo;31,2;5,7;ug/m3
+2025-01-15;Casa de Campo;15,4;4,6;ug/m3
+2025-11-15;Plaza del Carmen;44,1;9,0;ug/m3
+2025-05-14;RETIRO;18,1;5,1;ug/m3
+25/06/2025;Parque del Retiro;19,3;4,4;ug/m3
+16/06/2025;ESCUELAS AGUIRRE;36,7;10,2;ug/m3
+2025-09-28;Plaza del Carmen;19,1;9,7;ug/m3
+2025-12-06;Plaza del Carmen ;38,1;13,8;ug/m3
+2025-08-19;escuelas aguirre;34,1;7,4;ug/m3
+23/11/2025;Retiro;27,8;13,1;ug/m3
+2025-10-03;CUATRO CAMINOS;-999,0;9,7;ug/m3
+2025-12-30;Plaza Elíptica;63,4;15,2;ug/m3
+2025-12-15;Cuatro Caminos;43,6;15,8;ug/m3
+2025-11-25;CUATRO CAMINOS;51,7;13,8;ug/m3
+2025-02-24;casa de campo;24,6;5,8;ug/m3
+2025-08-18;Pza. Elíptica;36,7;8,3;ug/m3
+2025-03-15;Retiro;26,0;8,8;ug/m3
+20/05/2025; Plaza Elíptica ;24,3;14,0;ug/m3
+2025-08-31;Plaza del Carmen ;17,7;8,9;ug/m3
+23/07/2025;Plaza del Carmen ;16,8;2,8;ug/m3
+19/05/2025;Parque del Retiro;21,2;7,1;ug/m3
+2025-08-03;casa de campo;17,0;-999,0;ug/m3
+2025-02-28;PLAZA ELIPTICA;59,5;14,3;ug/m3
+2025-07-09;PLAZA ELIPTICA;34,3;12,5;ug/m3
+2025-01-30;casa de campo;21,6;5,3;ug/m3
+2025-09-03;casa de campo;16,6;1,0;ug/m3
+2025-12-20;CUATRO CAMINOS;45,4;18,1;ug/m3
+2025-12-26;Casa de Campo;29,7;6,3;ug/m3
+15/01/2025;Plaza del Carmen ;42,6;16,6;ug/m3
+2025-10-09;Casa de Campo;12,4;3,3;ug/m3
+2025-12-27;Pza. Elíptica;53,2;18,5;ug/m3
+2025-11-22;Plaza del Carmen;24,5;12,6;ug/m3
+13/06/2025;Plaza Elíptica;34,3;8,5;ug/m3
+2025-03-18;escuelas aguirre;53,1;7,8;ug/m3
+2025-05-10;CASA DE CAMPO;12,1;3,7;ug/m3
+2025-09-13;Plaza Elíptica;36,3;9,8;ug/m3
+2025-04-18;PLAZA ELIPTICA;50,8;14,7;ug/m3
+19/12/2025;CUATRO CAMINOS;56,2;17,7;ug/m3
+2025-01-10; Plaza Elíptica ;70,8;18,5;ug/m3
+2025-08-30;casa de campo;15,3;2,8;ug/m3
+27/10/2025;casa de campo;26,6;6,5;ug/m3
+2025-10-19;Plaza del Carmen;38,5;6,6;ug/m3
+2025-04-18;Escuelas Aguirre;36,3;10,1;ug/m3
+2025-08-04;CASA DE CAMPO;18,9;1,3;ug/m3
+2025-07-21;Plaza del Carmen;27,8;4,2;ug/m3
+23/04/2025;CUATRO CAMINOS;38,7;10,0;ug/m3
+06/02/2025;CUATRO CAMINOS;53,7;13,8;ug/m3
+2025-01-19;cuatro caminos ;52,4;14,9;ug/m3
+12/11/2025;Retiro;30,7;2,3;ug/m3
+2025-06-14;Casa de Campo;18,8;1,0;ug/m3
+2025-08-31;CUATRO CAMINOS;27,1;10,1;ug/m3
+2025-08-10;RETIRO;11,3;1,0;ug/m3
+2025-06-18;Escuelas Aguirre;29,8;7,1;ug/m3
+30/01/2025;Pza. Elíptica;69,7;18,1;ug/m3
+28/06/2025;PLAZA ELIPTICA;25,4;5,9;ug/m3
+2025-04-09;ESCUELAS AGUIRRE;50,0;10,9;ug/m3
+2025-10-11;Retiro;-999,0;4,8;ug/m3
+08/11/2025;Pza. Elíptica;27,0;14,5;ug/m3
+2025-01-04;PLAZA ELIPTICA;49,1;17,8;ug/m3
+2025-03-12;Casa de Campo;27,7;8,0;ug/m3
+08/10/2025;Pza. Elíptica;-999,0;14,5;ug/m3
+17/02/2025;Casa de Campo;30,4;5,7;ug/m3
+12/11/2025;ESCUELAS AGUIRRE;34,3;15,6;ug/m3
+2025-03-13;Plaza del Carmen;43,1;12,7;ug/m3
+2025-12-31;Plaza del Carmen ;48,9;15,4;ug/m3
+2025-06-23;cuatro caminos ;18,9;6,2;ug/m3
+2025-04-22;casa de campo;13,9;6,4;ug/m3
+2025-01-06;ESCUELAS AGUIRRE;58,2;20,2;ug/m3
+2025-05-01;Plaza del Carmen;37,5;8,3;ug/m3
+2025-06-08;Casa de Campo;16,7;1,3;ug/m3
+2025-08-15;PLAZA ELIPTICA;32,6;7,1;ug/m3
+2025-02-05;RETIRO;31,8;5,1;ug/m3
+2025-08-18;Retiro;22,0;2,4;ug/m3
+2025-02-24;Plaza del Carmen;52,6;13,7;ug/m3
+2025-04-04;PLAZA DEL CARMEN;42,8;8,8;ug/m3
+2025-08-24;Plaza del Carmen;7,5;-999,0;ug/m3
+2025-02-26;cuatro caminos ;48,8;10,4;ug/m3
+2025-01-25;casa de campo;15,9;6,5;ug/m3
+2025-08-25;Retiro;12,7;3,4;ug/m3
+2025-10-05;Casa de Campo;11,5;5,1;ug/m3
+2025-06-11;Pza. Elíptica;37,3;6,0;ug/m3
+26/01/2025;CUATRO CAMINOS;42,7;18,2;ug/m3
+01/08/2025;escuelas aguirre;30,7;7,0;ug/m3
+2025-07-25;Plaza del Carmen ;23,4;7,7;ug/m3
+28/10/2025;escuelas aguirre;53,8;16,3;ug/m3
+2025-08-26;Plaza del Carmen;20,3;5,4;ug/m3
+2025-11-28;Escuelas Aguirre;58,0;16,0;ug/m3
+2025-08-26;cuatro caminos ;38,1;9,4;ug/m3
+14/12/2025;Plaza Elíptica;47,1;18,4;ug/m3
+2025-07-28;Escuelas Aguirre;23,5;2,6;ug/m3
+2025-12-12;cuatro caminos ;52,6;19,4;ug/m3
+31/10/2025;PLAZA DEL CARMEN;44,2;9,9;ug/m3
+2025-09-14;PLAZA ELIPTICA;28,5;10,4;ug/m3
+2025-11-18;PLAZA DEL CARMEN;37,1;8,6;ug/m3
+2025-06-06;Plaza del Carmen ;21,6;5,8;ug/m3
+2025-11-19; Plaza Elíptica ;55,1;17,2;ug/m3
+2025-02-27;Parque del Retiro;13,7;8,3;ug/m3
+2025-10-04;Plaza del Carmen ;21,8;13,1;ug/m3
+2025-02-18;Escuelas Aguirre;52,9;14,7;ug/m3
+2025-03-06;ESCUELAS AGUIRRE;42,3;15,6;ug/m3
+2025-09-10;escuelas aguirre;36,7;6,6;ug/m3
+2025-08-17;Plaza del Carmen ;25,0;5,4;ug/m3
+10/02/2025;Casa de Campo;35,3;11,5;ug/m3
+2025-07-11; Plaza Elíptica ;20,1;10,5;ug/m3
+06/06/2025; Plaza Elíptica ;38,5;9,5;ug/m3
+2025-10-22;ESCUELAS AGUIRRE;37,9;11,5;ug/m3
+2025-02-22;Plaza Elíptica;37,2;19,0;ug/m3
+2025-12-26;cuatro caminos ;53,3;13,0;ug/m3
+2025-06-11;PLAZA DEL CARMEN;26,8;11,0;ug/m3
+2025-04-21;Plaza Elíptica;47,7;15,9;ug/m3
+2025-10-24;cuatro caminos ;39,3;14,2;ug/m3
+2025-03-03;RETIRO;31,9;10,7;ug/m3
+2025-04-05;Plaza del Carmen;26,3;14,2;ug/m3
+2025-09-11;Plaza Elíptica;36,1;12,9;ug/m3
+2025-05-18;Plaza del Carmen;27,4;-999,0;ug/m3
+13/06/2025;Retiro;7,7;1,0;ug/m3
+2025-08-13;Casa de Campo;14,7;1,7;ug/m3
+2025-05-16;CASA DE CAMPO;28,3;7,8;ug/m3
+10/05/2025;Retiro;9,9;2,9;ug/m3
+2025-06-25;Plaza del Carmen;13,1;-999,0;ug/m3
+24/11/2025;cuatro caminos ;46,9;16,6;ug/m3
+18/06/2025;cuatro caminos ;30,2;8,7;ug/m3
+08/08/2025; Plaza Elíptica ;37,9;12,3;ug/m3
+2025-12-07;casa de campo;15,5;8,1;ug/m3
+2025-01-22;Pza. Elíptica;61,0;-999,0;ug/m3
+2025-05-28;Cuatro Caminos;29,7;8,3;ug/m3
+17/06/2025;CUATRO CAMINOS;40,2;8,0;ug/m3
+2025-03-01;ESCUELAS AGUIRRE;35,4;16,9;ug/m3
+2025-12-05;ESCUELAS AGUIRRE;59,9;14,4;ug/m3
+2025-04-24;Parque del Retiro;-999,0;6,3;ug/m3
+2025-11-02;cuatro caminos ;36,2;15,4;ug/m3
+2025-08-05;casa de campo;3,0;2,0;ug/m3
+14/06/2025;PLAZA ELIPTICA;24,8;6,9;ug/m3
+15/10/2025;RETIRO;27,8;11,2;ug/m3
+2025-01-24;Plaza del Carmen;44,5;12,0;ug/m3
+2025-10-30;Plaza del Carmen ;44,3;6,5;ug/m3
+2025-09-24;Plaza Elíptica;31,7;10,7;ug/m3
+2025-09-05;Parque del Retiro;12,6;4,1;ug/m3
+2025-12-19;escuelas aguirre;61,3;16,2;ug/m3
+06/08/2025;cuatro caminos ;32,7;4,7;ug/m3
+06/07/2025;Pza. Elíptica;20,8;7,5;ug/m3
+2025-10-13;PLAZA DEL CARMEN;34,7;9,9;ug/m3
+2025-04-29;CASA DE CAMPO;20,2;4,0;ug/m3
+05/11/2025;PLAZA ELIPTICA;56,3;16,3;ug/m3
+01/12/2025;CUATRO CAMINOS;59,2;12,6;ug/m3
+2025-01-02;Parque del Retiro;31,2;9,8;ug/m3
+2025-08-12;PLAZA ELIPTICA;35,9;-999,0;ug/m3
+2025-08-06;Pza. Elíptica;32,4;5,6;ug/m3
+06/05/2025;RETIRO;19,9;3,5;ug/m3
+2025-04-15;PLAZA DEL CARMEN;36,6;8,6;ug/m3
+2025-09-06;PLAZA ELIPTICA;20,5;9,8;ug/m3
+22/01/2025;casa de campo;12,6;6,0;ug/m3
+21/05/2025;CASA DE CAMPO;23,2;5,0;ug/m3
+2025-02-23;cuatro caminos ;29,6;10,7;ug/m3
+2025-10-02;Escuelas Aguirre;-999,0;9,5;ug/m3
+2025-01-03;PLAZA DEL CARMEN;39,3;10,3;ug/m3
+2025-09-23;Parque del Retiro;14,5;7,6;ug/m3
+2025-02-05;CUATRO CAMINOS;44,8;18,5;ug/m3
+2025-09-12;ESCUELAS AGUIRRE;20,9;8,1;ug/m3
+08/09/2025;ESCUELAS AGUIRRE;30,5;12,0;ug/m3
+2025-07-30;Parque del Retiro;14,5;2,4;ug/m3
+2025-05-25;PLAZA ELIPTICA;29,2;5,9;ug/m3
+2025-03-28;PLAZA ELIPTICA;56,3;16,0;ug/m3
+2025-04-10;Casa de Campo;18,8;4,5;ug/m3
+02/02/2025;Casa de Campo;18,9;12,3;ug/m3
+2025-02-18;Plaza Elíptica;56,9;22,9;ug/m3
+2025-06-08;Plaza del Carmen;23,0;7,5;ug/m3
+2025-12-22;escuelas aguirre;68,1;10,9;ug/m3
+2025-10-02;Pza. Elíptica;-999,0;14,1;ug/m3
+2025-07-06;RETIRO;3,4;2,5;ug/m3
+2025-04-02;Casa de Campo;18,5;6,5;ug/m3
+2025-01-27;Plaza Elíptica;-999,0;13,6;ug/m3
+2025-03-11;cuatro caminos ;46,3;-999,0;ug/m3
+2025-06-03;Retiro;22,7;5,3;ug/m3
+2025-03-21;Casa de Campo;20,5;6,3;ug/m3
+27/08/2025;Pza. Elíptica;42,6;8,4;ug/m3
+03/04/2025;ESCUELAS AGUIRRE;43,1;10,4;ug/m3
+2025-03-07;PLAZA ELIPTICA;64,9;11,6;ug/m3
+07/04/2025;Plaza del Carmen;42,8;10,0;ug/m3
+2025-12-07;PLAZA DEL CARMEN;37,6;10,5;ug/m3
+2025-12-13;Escuelas Aguirre;41,3;18,7;ug/m3
+2025-11-24;PLAZA DEL CARMEN;60,1;15,1;ug/m3
+2025-05-17;RETIRO;11,8;4,6;ug/m3
+2025-12-20;escuelas aguirre;34,6;14,3;ug/m3
+17/06/2025;Parque del Retiro;22,1;2,2;ug/m3
+2025-07-28;casa de campo;24,4;1,0;ug/m3
+21/04/2025;Retiro;16,5;8,7;ug/m3
+2025-10-27;Parque del Retiro;15,0;3,7;ug/m3
+2025-01-24;RETIRO;24,6;6,3;ug/m3
+2025-10-30;escuelas aguirre;50,9;9,2;ug/m3
+2025-11-05;PLAZA DEL CARMEN;33,9;7,7;ug/m3
+2025-03-12;escuelas aguirre;50,7;10,9;ug/m3
+2025-05-14;ESCUELAS AGUIRRE;37,6;10,4;ug/m3
+2025-04-13;casa de campo;8,6;3,0;ug/m3
+2025-02-19;Escuelas Aguirre;52,2;16,4;ug/m3
+2025-03-08;cuatro caminos ;25,0;14,2;ug/m3
+2025-01-15;Parque del Retiro;21,4;9,3;ug/m3
+2025-09-22;Pza. Elíptica;34,1;10,1;ug/m3
+29/12/2025;CUATRO CAMINOS;55,9;12,5;ug/m3
+2025-01-22;Cuatro Caminos;54,9;14,2;ug/m3
+2025-07-21;Escuelas Aguirre;18,4;9,3;ug/m3
+2025-08-03;ESCUELAS AGUIRRE;14,9;10,3;ug/m3
+2025-11-25;PLAZA DEL CARMEN;42,6;13,3;ug/m3
+26/10/2025;Parque del Retiro;13,7;7,0;ug/m3
+2025-05-01;Retiro;28,4;9,8;ug/m3
+15/08/2025;CASA DE CAMPO;4,2;2,5;ug/m3
+2025-02-14;Cuatro Caminos;48,8;14,6;ug/m3
+2025-09-28;Casa de Campo;14,1;3,6;ug/m3
+2025-06-02;Cuatro Caminos;29,0;7,7;ug/m3
+2025-12-18;Pza. Elíptica;59,2;23,1;ug/m3
+14/10/2025; Plaza Elíptica ;55,9;15,1;ug/m3
+2025-07-24;ESCUELAS AGUIRRE;37,1;11,3;ug/m3
+04/03/2025;casa de campo;-999,0;3,4;ug/m3
+25/02/2025;casa de campo;14,0;7,6;ug/m3
+19/08/2025;Plaza Elíptica;27,3;5,1;ug/m3
+13/12/2025;Plaza del Carmen;36,7;10,7;ug/m3
+06/07/2025;PLAZA DEL CARMEN;11,2;4,6;ug/m3
+2025-06-01;Retiro;17,1;5,2;ug/m3
+2025-05-10;Plaza del Carmen ;21,5;10,8;ug/m3
+2025-08-12;Plaza del Carmen;24,2;7,7;ug/m3
+24/02/2025;Retiro;31,1;15,1;ug/m3
+2025-11-01;Cuatro Caminos;42,0;9,7;ug/m3
+2025-01-03;Plaza Elíptica;54,3;17,2;ug/m3
+2025-05-30;Casa de Campo;15,6;4,8;ug/m3
+2025-01-29;casa de campo;-999,0;11,3;ug/m3
+2025-02-13;Plaza del Carmen;-999,0;13,7;ug/m3
+2025-08-29;ESCUELAS AGUIRRE;30,7;7,0;ug/m3
+06/11/2025;CUATRO CAMINOS;52,7;10,8;ug/m3
+2025-05-31;ESCUELAS AGUIRRE;28,1;5,4;ug/m3
+2025-02-13; Plaza Elíptica ;66,7;19,2;ug/m3
+2025-05-21;Parque del Retiro;19,8;8,3;ug/m3
+2025-01-24; Plaza Elíptica ;78,9;19,1;ug/m3
+2025-02-23;escuelas aguirre;39,2;14,4;ug/m3
+2025-11-01;Escuelas Aguirre;-999,0;6,1;ug/m3
+02/09/2025;Plaza del Carmen;24,8;-999,0;ug/m3
+2025-12-14;CUATRO CAMINOS;37,3;17,2;ug/m3
+2025-04-04; Plaza Elíptica ;-999,0;15,4;ug/m3
+2025-01-24;escuelas aguirre;60,3;19,0;ug/m3
+2025-01-19;RETIRO;30,4;10,0;ug/m3
+2025-03-30;CASA DE CAMPO;14,0;5,5;ug/m3
+2025-02-07;Plaza del Carmen ;53,8;15,8;ug/m3
+2025-05-01;Casa de Campo;11,5;6,4;ug/m3
+2025-12-09;Pza. Elíptica;65,1;23,0;ug/m3
+20/10/2025;escuelas aguirre;52,1;10,2;ug/m3
+24/02/2025;Escuelas Aguirre;53,0;17,8;ug/m3
+08/09/2025;Plaza del Carmen ;19,2;7,5;ug/m3
+04/08/2025;PLAZA ELIPTICA;27,2;6,5;ug/m3
+2025-04-30;Plaza Elíptica;46,2;11,6;ug/m3
+2025-05-22;Pza. Elíptica;31,5;8,2;ug/m3
+2025-02-02;Escuelas Aguirre;42,9;8,4;ug/m3
+2025-04-06;casa de campo;17,4;5,1;ug/m3
+07/06/2025;RETIRO;-999,0;4,8;ug/m3
+25/03/2025;cuatro caminos ;56,1;10,5;ug/m3
+21/08/2025;casa de campo;22,7;9,2;ug/m3
+2025-08-19;CUATRO CAMINOS;25,9;8,8;ug/m3
+2025-04-18;CASA DE CAMPO;23,0;5,4;ug/m3
+2025-01-01;CASA DE CAMPO;19,0;7,7;ug/m3
+2025-12-24;Pza. Elíptica;66,9;18,5;ug/m3
+2025-03-19;CUATRO CAMINOS;30,0;11,9;ug/m3
+2025-01-01;Cuatro Caminos;51,5;16,3;ug/m3
+2025-10-01;escuelas aguirre;40,9;8,0;ug/m3
+2025-04-02;ESCUELAS AGUIRRE;51,3;14,0;ug/m3
+2025-02-08;Plaza Elíptica;-999,0;18,9;ug/m3
+27/06/2025;escuelas aguirre;24,9;13,0;ug/m3
+01/04/2025;Plaza del Carmen ;42,3;14,3;ug/m3
+10/02/2025;PLAZA DEL CARMEN;45,2;16,7;ug/m3
+2025-05-30;Retiro;8,2;2,9;ug/m3
+2025-10-11;Plaza del Carmen;22,9;8,2;ug/m3
+13/07/2025;Plaza del Carmen ;2,0;7,3;ug/m3
+24/08/2025;Retiro;25,1;6,8;ug/m3
+2025-10-19;escuelas aguirre;36,2;10,6;ug/m3
+21/05/2025;Plaza del Carmen;28,7;12,9;ug/m3
+2025-10-11;escuelas aguirre;28,0;13,6;ug/m3
+2025-08-18;Escuelas Aguirre;34,8;7,3;ug/m3
+2025-02-16; Plaza Elíptica ;46,4;16,5;ug/m3
+2025-04-21;escuelas aguirre;38,6;12,3;ug/m3
+2025-08-28;Plaza del Carmen;32,3;5,5;ug/m3
+22/02/2025;PLAZA DEL CARMEN;33,2;8,1;ug/m3
+2025-04-26;escuelas aguirre;35,2;7,3;ug/m3
+2025-11-01;Retiro;37,6;8,0;ug/m3
+2025-03-12;Retiro;29,2;7,9;ug/m3
+2025-04-10;Plaza Elíptica;51,5;10,6;ug/m3
+10/10/2025;PLAZA ELIPTICA;47,8;11,0;ug/m3
+2025-04-14;RETIRO;37,1;6,7;ug/m3
+2025-08-21;escuelas aguirre;37,6;11,5;ug/m3
+27/07/2025;PLAZA DEL CARMEN;23,5;5,8;ug/m3
+2025-02-07;Cuatro Caminos;53,5;15,0;ug/m3
+2025-08-11;PLAZA ELIPTICA;27,1;9,2;ug/m3
+2025-07-14;CUATRO CAMINOS;20,9;6,8;ug/m3
+2025-12-28;Plaza Elíptica;51,4;16,2;ug/m3
+2025-08-07;Escuelas Aguirre;30,3;8,4;ug/m3
+12/01/2025;PLAZA ELIPTICA;45,8;21,1;ug/m3
+2025-01-05;PLAZA ELIPTICA;39,0;18,5;ug/m3
+2025-07-25;CUATRO CAMINOS;20,8;12,5;ug/m3
+2025-01-25; Plaza Elíptica ;51,5;15,6;ug/m3
+2025-03-31;Plaza del Carmen;41,9;10,5;ug/m3
+2025-05-16;Escuelas Aguirre;30,7;11,2;ug/m3
+2025-08-11;Plaza del Carmen;22,9;6,7;ug/m3
+15/01/2025;escuelas aguirre;55,0;16,4;ug/m3
+2025-07-29;Pza. Elíptica;39,5;4,2;ug/m3
+2025-09-22;Plaza del Carmen ;21,9;5,0;ug/m3
+2025-08-23;Plaza del Carmen ;16,0;8,8;ug/m3
+2025-10-13;RETIRO;26,1;3,3;ug/m3
+22/03/2025;RETIRO;26,2;9,9;ug/m3
+13/11/2025;PLAZA DEL CARMEN;34,6;10,3;ug/m3
+2025-12-19;PLAZA DEL CARMEN;53,1;12,5;ug/m3
+2025-09-30;Cuatro Caminos;32,5;13,3;ug/m3
+2025-08-16; Plaza Elíptica ;20,6;8,6;ug/m3
+2025-03-02;Plaza del Carmen ;34,4;6,1;ug/m3
+2025-12-18;Escuelas Aguirre;60,5;12,0;ug/m3
+10/11/2025;CUATRO CAMINOS;44,9;9,7;ug/m3
+21/06/2025; Plaza Elíptica ;22,9;11,7;ug/m3
+2025-06-21;RETIRO;9,2;7,3;ug/m3
+2025-09-16;casa de campo;21,1;1,0;ug/m3
+2025-09-27;Plaza del Carmen ;26,0;7,7;ug/m3
+2025-11-08;CASA DE CAMPO;16,0;5,6;ug/m3
+2025-04-21;CUATRO CAMINOS;27,4;8,0;ug/m3
+02/03/2025;Parque del Retiro;24,1;8,4;ug/m3
+26/07/2025;casa de campo;5,7;5,8;ug/m3
+13/01/2025;CUATRO CAMINOS;52,8;10,1;ug/m3
+2025-01-05;casa de campo;15,9;7,6;ug/m3
+2025-10-14;RETIRO;17,0;3,2;ug/m3
+2025-03-29;casa de campo;24,1;5,8;ug/m3
+2025-05-01;Cuatro Caminos;41,6;12,0;ug/m3
+10/01/2025;Escuelas Aguirre;52,3;16,7;ug/m3
+2025-04-17;PLAZA DEL CARMEN;30,1;9,2;ug/m3
+2025-02-20;PLAZA DEL CARMEN;40,1;14,8;ug/m3
+2025-04-30;RETIRO;23,0;2,3;ug/m3
+30/08/2025;escuelas aguirre;22,2;9,3;ug/m3
+15/04/2025;PLAZA ELIPTICA;38,9;15,5;ug/m3
+2025-01-02;escuelas aguirre;63,1;15,5;ug/m3
+2025-08-02;Plaza del Carmen;10,5;6,8;ug/m3
+2025-05-14;CUATRO CAMINOS;31,1;9,5;ug/m3
+2025-06-24;CUATRO CAMINOS;28,1;5,3;ug/m3
+2025-02-26;Plaza Elíptica;59,2;13,0;ug/m3
+08/01/2025;CUATRO CAMINOS;55,8;18,1;ug/m3
+2025-10-23;escuelas aguirre;34,8;18,0;ug/m3
+2025-01-18;Retiro;31,5;12,4;ug/m3
+28/02/2025;ESCUELAS AGUIRRE;56,3;11,4;ug/m3
+2025-06-29;Cuatro Caminos;13,6;8,7;ug/m3
+2025-02-09;Parque del Retiro;23,3;5,2;ug/m3
+2025-02-05;casa de campo;19,3;4,5;ug/m3
+10/07/2025;RETIRO;23,5;1,0;ug/m3
+2025-09-06;PLAZA DEL CARMEN;14,9;10,5;ug/m3
+2025-12-13;CUATRO CAMINOS;42,6;12,7;ug/m3
+2025-05-13;escuelas aguirre;25,8;16,0;ug/m3
+2025-07-02;Parque del Retiro;10,7;2,0;ug/m3
+2025-08-22;Retiro;7,5;6,8;ug/m3
+2025-08-11;CUATRO CAMINOS;24,6;7,5;ug/m3
+2025-11-12;PLAZA ELIPTICA;60,0;16,0;ug/m3
+2025-11-29;RETIRO;22,9;6,6;ug/m3
+2025-03-29;escuelas aguirre;36,3;11,0;ug/m3
+08/02/2025;Retiro;25,6;12,4;ug/m3
+2025-04-18;Plaza del Carmen;38,8;12,1;ug/m3
+2025-10-28;Casa de Campo;16,3;5,2;ug/m3
+2025-03-30;cuatro caminos ;31,9;15,7;ug/m3
+2025-10-28;RETIRO;34,4;6,2;ug/m3
+2025-04-11;Casa de Campo;18,4;3,7;ug/m3
+2025-08-28;escuelas aguirre;20,2;15,2;ug/m3
+29/06/2025;Plaza Elíptica;16,7;7,0;ug/m3
+2025-09-17;Plaza del Carmen ;25,9;5,4;ug/m3
+2025-01-11;Pza. Elíptica;54,2;11,7;ug/m3
+08/09/2025;CASA DE CAMPO;16,5;1,0;ug/m3
+2025-01-16;PLAZA DEL CARMEN;53,9;14,2;ug/m3
+2025-04-22;Pza. Elíptica;43,9;17,3;ug/m3
+2025-08-09;CASA DE CAMPO;12,1;5,9;ug/m3
+19/11/2025;PLAZA DEL CARMEN;32,6;9,1;ug/m3
+2025-02-16;Retiro;27,3;9,4;ug/m3
+28/11/2025;CASA DE CAMPO;25,8;3,1;ug/m3
+2025-03-01;CUATRO CAMINOS;31,7;21,0;ug/m3
+2025-08-12;cuatro caminos ;31,8;4,3;ug/m3
+2025-08-20;CUATRO CAMINOS;27,8;12,4;ug/m3
+2025-05-22;escuelas aguirre;37,2;9,6;ug/m3
+21/07/2025; Plaza Elíptica ;24,5;10,7;ug/m3
+2025-10-26;Cuatro Caminos;21,6;11,6;ug/m3
+2025-01-19;Plaza del Carmen ;22,2;11,3;ug/m3
+08/01/2025;Plaza Elíptica;62,7;20,4;ug/m3
+21/01/2025;CUATRO CAMINOS;56,6;13,1;ug/m3
+2025-02-04; Plaza Elíptica ;68,8;17,7;ug/m3
+09/01/2025;Parque del Retiro;34,3;9,4;ug/m3
+2025-04-01;cuatro caminos ;44,5;7,8;ug/m3
+2025-01-12;Plaza del Carmen;40,4;11,5;ug/m3
+2025-08-14;ESCUELAS AGUIRRE;22,8;6,6;ug/m3
+05/11/2025;escuelas aguirre;50,3;15,2;ug/m3
+2025-01-31;Casa de Campo;18,9;7,9;ug/m3
+23/01/2025;cuatro caminos ;55,5;13,3;ug/m3
+30/05/2025;cuatro caminos ;22,1;8,0;ug/m3
+2025-05-13;RETIRO;20,9;6,0;ug/m3
+2025-01-23;Plaza Elíptica;57,0;13,8;ug/m3
+2025-01-14;Plaza del Carmen ;47,6;12,1;ug/m3
+2025-10-24;Pza. Elíptica;37,5;-999,0;ug/m3
+2025-11-03;Retiro;29,9;9,1;ug/m3
+2025-04-01;escuelas aguirre;46,5;-999,0;ug/m3
+2025-11-14;Plaza del Carmen ;46,3;13,3;ug/m3
+13/06/2025;CUATRO CAMINOS;23,9;2,9;ug/m3
+2025-01-28;casa de campo;25,4;6,3;ug/m3
+2025-02-11;PLAZA DEL CARMEN;53,9;12,8;ug/m3
+2025-08-10;Cuatro Caminos;17,7;7,5;ug/m3
+2025-03-16;Plaza del Carmen ;32,1;11,0;ug/m3
+2025-08-16;Retiro;15,0;1,0;ug/m3
+2025-05-24; Plaza Elíptica ;22,3;11,6;ug/m3
+2025-08-15;PLAZA DEL CARMEN;21,9;8,2;ug/m3
+2025-12-09;ESCUELAS AGUIRRE;48,6;13,3;ug/m3
+2025-01-17;escuelas aguirre;57,8;17,4;ug/m3
+2025-08-19;casa de campo;21,8;2,4;ug/m3
+2025-05-15;ESCUELAS AGUIRRE;32,3;9,2;ug/m3
+2025-05-03;CUATRO CAMINOS;34,2;11,7;ug/m3
+2025-12-12;Plaza del Carmen ;55,8;10,7;ug/m3
+2025-01-18;Pza. Elíptica;33,4;14,4;ug/m3
+2025-03-14;Plaza del Carmen;49,2;11,4;ug/m3
+2025-01-13;Plaza del Carmen ;49,5;15,7;ug/m3
+2025-04-07;Escuelas Aguirre;40,3;9,8;ug/m3
+2025-08-26;Retiro;12,5;3,5;ug/m3
+2025-09-07; Plaza Elíptica ;29,5;12,1;ug/m3
+2025-07-25;Pza. Elíptica;35,1;10,4;ug/m3
+2025-06-03;PLAZA ELIPTICA;29,4;10,8;ug/m3
+10/08/2025;Pza. Elíptica;24,2;11,8;ug/m3
+2025-12-08;Plaza del Carmen;39,2;9,3;ug/m3
+2025-11-29;casa de campo;11,8;5,3;ug/m3
+19/11/2025;Escuelas Aguirre;49,7;12,8;ug/m3
+2025-05-08;Plaza Elíptica;46,4;11,2;ug/m3
+14/06/2025;cuatro caminos ;21,5;5,6;ug/m3
+2025-03-06;Parque del Retiro;30,1;8,9;ug/m3
+2025-02-09;Escuelas Aguirre;44,6;15,8;ug/m3
+2025-12-01;Casa de Campo;16,2;4,4;ug/m3
+2025-02-14;casa de campo;28,3;4,9;ug/m3
+10/08/2025;casa de campo;2,4;7,0;ug/m3
+2025-08-24;PLAZA ELIPTICA;29,2;10,0;ug/m3
+2025-01-20;Casa de Campo;18,9;7,3;ug/m3
+2025-11-16;Casa de Campo;14,1;4,5;ug/m3
+2025-04-23;ESCUELAS AGUIRRE;-999,0;13,4;ug/m3
+2025-02-11;CASA DE CAMPO;18,2;7,9;ug/m3
+2025-10-17;RETIRO;20,1;8,5;ug/m3
+2025-04-01;Casa de Campo;21,8;9,4;ug/m3
+16/01/2025;RETIRO;31,7;8,3;ug/m3
+2025-09-02;Parque del Retiro;20,6;4,5;ug/m3
+2025-01-06;CASA DE CAMPO;29,3;4,5;ug/m3
+2025-10-19;RETIRO;18,9;1,0;ug/m3
+29/11/2025;PLAZA ELIPTICA;42,4;18,1;ug/m3
+2025-03-16;Parque del Retiro;25,5;8,8;ug/m3
+2025-04-30;Plaza del Carmen ;26,6;12,9;ug/m3
+2025-11-18;Escuelas Aguirre;48,5;18,6;ug/m3
+07/11/2025;Cuatro Caminos;50,5;11,3;ug/m3
+01/01/2025;Plaza Elíptica;66,1;15,4;ug/m3
+2025-10-01;Plaza del Carmen ;36,2;5,5;ug/m3
+03/07/2025;Casa de Campo;17,6;2,7;ug/m3
+2025-07-04;Parque del Retiro;25,0;1,5;ug/m3
+2025-08-31;Casa de Campo;17,4;4,3;ug/m3
+2025-01-14;Parque del Retiro;25,5;7,9;ug/m3
+2025-09-13;Plaza del Carmen ;24,8;15,8;ug/m3
+2025-04-23;RETIRO;19,5;6,0;ug/m3
+2025-10-17;escuelas aguirre;37,1;11,2;ug/m3
+2025-06-24;Plaza del Carmen;23,7;3,4;ug/m3
+2025-05-09;Plaza del Carmen ;39,6;7,6;ug/m3
+2025-10-02;casa de campo;20,8;7,2;ug/m3
+2025-09-11;cuatro caminos ;30,9;5,8;ug/m3
+11/11/2025;RETIRO;21,6;7,2;ug/m3
+2025-10-25; Plaza Elíptica ;25,1;15,7;ug/m3
+2025-03-09;Plaza del Carmen;36,2;12,5;ug/m3
+06/03/2025;PLAZA ELIPTICA;54,3;13,7;ug/m3
+15/09/2025;Casa de Campo;16,3;1,0;ug/m3
+2025-12-16;cuatro caminos ;51,7;11,2;ug/m3
+2025-01-18;PLAZA DEL CARMEN;33,2;14,4;ug/m3
+2025-04-25;Parque del Retiro;11,5;4,6;ug/m3
+2025-09-17;casa de campo;10,3;6,5;ug/m3
+18/05/2025;Retiro;10,9;4,9;ug/m3
+2025-07-26;RETIRO;9,3;8,4;ug/m3
+2025-01-11;Plaza del Carmen;41,8;12,4;ug/m3
+06/08/2025;CASA DE CAMPO;20,3;3,0;ug/m3
+2025-05-23;Pza. Elíptica;45,7;8,6;ug/m3
+2025-09-27; Plaza Elíptica ;31,1;11,6;ug/m3
+30/07/2025;Plaza del Carmen ;29,2;4,9;ug/m3
+2025-02-07;escuelas aguirre;51,6;18,6;ug/m3
+25/01/2025;escuelas aguirre;45,1;15,8;ug/m3
+2025-07-01;PLAZA DEL CARMEN;28,4;1,7;ug/m3
+2025-03-04;ESCUELAS AGUIRRE;53,3;13,9;ug/m3
+2025-10-11;casa de campo;13,1;5,2;ug/m3
+10/07/2025;PLAZA DEL CARMEN;24,0;8,0;ug/m3
+20/12/2025;PLAZA DEL CARMEN;28,0;10,9;ug/m3
+2025-10-26;PLAZA ELIPTICA;45,6;12,4;ug/m3
+2025-08-01;PLAZA DEL CARMEN;25,8;9,3;ug/m3
+2025-07-30;Cuatro Caminos;24,5;7,4;ug/m3
+15/11/2025;Casa de Campo;25,6;7,7;ug/m3
+2025-09-09;Retiro;15,5;4,5;ug/m3
+02/01/2025;casa de campo;25,5;8,9;ug/m3
+2025-03-16;cuatro caminos ;42,9;17,7;ug/m3
+2025-04-29; Plaza Elíptica ;49,6;15,1;ug/m3
+2025-02-12;CASA DE CAMPO;18,8;7,4;ug/m3
+2025-05-28;PLAZA ELIPTICA;36,5;9,1;ug/m3
+06/03/2025;cuatro caminos ;45,4;16,3;ug/m3
+2025-09-18;CUATRO CAMINOS;30,5;8,8;ug/m3
+2025-06-01;PLAZA DEL CARMEN;31,1;9,6;ug/m3
+2025-06-04;Plaza Elíptica;41,5;8,2;ug/m3
+2025-12-15;Plaza del Carmen ;44,0;13,2;ug/m3
+2025-09-01;Casa de Campo;17,2;2,3;ug/m3
+18/03/2025;Parque del Retiro;24,4;2,6;ug/m3
+2025-09-09;Casa de Campo;17,6;4,5;ug/m3
+2025-12-06;ESCUELAS AGUIRRE;37,2;11,0;ug/m3
+2025-07-14;Retiro;16,3;6,8;ug/m3
+2025-06-09;Parque del Retiro;22,5;2,2;ug/m3
+2025-03-25;CASA DE CAMPO;17,6;4,6;ug/m3
+2025-05-04;Escuelas Aguirre;28,9;7,2;ug/m3
+2025-01-07;Retiro;28,6;9,1;ug/m3
+25/05/2025;Parque del Retiro;17,5;9,4;ug/m3
+2025-05-02;CUATRO CAMINOS;25,6;13,6;ug/m3
+2025-03-31;cuatro caminos ;40,3;13,0;ug/m3
+2025-07-20;ESCUELAS AGUIRRE;21,2;9,1;ug/m3
+2025-08-12;escuelas aguirre;28,0;7,2;ug/m3
+2025-04-27;Escuelas Aguirre;33,4;7,0;ug/m3
+2025-10-21;Plaza del Carmen ;-999,0;9,5;ug/m3
+2025-10-01;Parque del Retiro;14,1;8,7;ug/m3
+2025-08-17;CASA DE CAMPO;6,8;7,2;ug/m3
+2025-07-10;cuatro caminos ;28,8;10,2;ug/m3
+2025-06-21;CUATRO CAMINOS;18,7;10,7;ug/m3
+2025-03-04;PLAZA ELIPTICA;59,7;13,8;ug/m3
+2025-04-22;ESCUELAS AGUIRRE;36,1;13,9;ug/m3
+2025-08-27;CASA DE CAMPO;6,0;5,1;ug/m3
+2025-11-01; Plaza Elíptica ;44,5;13,1;ug/m3
+2025-03-01;Casa de Campo;14,3;6,5;ug/m3
+2025-06-11;escuelas aguirre;35,1;5,9;ug/m3
+2025-05-11;CASA DE CAMPO;14,6;1,0;ug/m3
+2025-05-03;CASA DE CAMPO;16,8;3,9;ug/m3
+14/08/2025;Casa de Campo;5,9;4,5;ug/m3
+22/06/2025;casa de campo;11,1;4,7;ug/m3
+2025-06-11;Parque del Retiro;26,7;3,5;ug/m3
+2025-10-31;CUATRO CAMINOS;46,4;12,7;ug/m3
+2025-10-24;Parque del Retiro;24,7;7,6;ug/m3
+2025-12-14;Escuelas Aguirre;35,3;11,8;ug/m3
+2025-11-11;Cuatro Caminos;38,3;13,1;ug/m3
+14/09/2025;Plaza del Carmen ;13,4;6,4;ug/m3
+2025-10-31;Retiro;33,9;6,9;ug/m3
+2025-08-10;PLAZA DEL CARMEN;4,4;5,9;ug/m3
+2025-09-26;CASA DE CAMPO;4,2;8,8;ug/m3
+2025-10-25;PLAZA DEL CARMEN;31,2;14,4;ug/m3
+2025-08-26;CASA DE CAMPO;3,5;1,0;ug/m3
+2025-09-02; Plaza Elíptica ;41,6;12,1;ug/m3
+2025-11-23;cuatro caminos ;34,2;-999,0;ug/m3
+2025-07-28;RETIRO;16,2;2,5;ug/m3
+2025-12-23;Parque del Retiro;21,3;7,9;ug/m3
+2025-12-08;cuatro caminos ;52,9;9,5;ug/m3
+2025-07-26;Pza. Elíptica;24,2;6,0;ug/m3
+28/05/2025;casa de campo;11,7;2,8;ug/m3
+2025-01-14;Escuelas Aguirre;59,3;17,2;ug/m3
+2025-07-15;Plaza del Carmen ;26,3;6,2;ug/m3
+2025-05-16;Retiro;13,2;8,0;ug/m3
+2025-12-30;casa de campo;23,0;7,4;ug/m3
+2025-04-22;cuatro caminos ;57,1;12,1;ug/m3
+2025-11-02;Escuelas Aguirre;36,3;13,4;ug/m3
+10/01/2025;CASA DE CAMPO;17,6;9,8;ug/m3
+23/01/2025;Escuelas Aguirre;55,5;20,0;ug/m3
+10/07/2025; Plaza Elíptica ;27,2;7,1;ug/m3
+2025-06-05;CASA DE CAMPO;18,3;7,6;ug/m3
+2025-12-02;RETIRO;31,0;9,9;ug/m3
+2025-05-18;escuelas aguirre;21,8;11,1;ug/m3
+2025-08-27;Retiro;16,9;7,4;ug/m3
+2025-09-29;PLAZA DEL CARMEN;21,3;9,2;ug/m3
+22/07/2025;Plaza del Carmen;20,4;5,0;ug/m3
+26/03/2025;Plaza Elíptica;53,3;15,4;ug/m3
+2025-12-31;escuelas aguirre;56,9;16,6;ug/m3
+2025-02-27;CUATRO CAMINOS;56,5;13,7;ug/m3
+2025-03-06;Plaza del Carmen;-999,0;13,5;ug/m3
+2025-06-20;RETIRO;8,3;4,2;ug/m3
+2025-08-19;Parque del Retiro;19,6;3,2;ug/m3
+2025-05-30;PLAZA ELIPTICA;32,4;14,1;ug/m3
+2025-05-19;PLAZA ELIPTICA;23,3;9,7;ug/m3
+2025-12-26;Escuelas Aguirre;48,4;13,3;ug/m3
+2025-03-21;Escuelas Aguirre;36,1;13,1;ug/m3
+2025-12-10;PLAZA DEL CARMEN;60,7;13,0;ug/m3
+2025-10-16;CASA DE CAMPO;12,5;5,0;ug/m3
+2025-10-06;Pza. Elíptica;45,2;12,3;ug/m3
+2025-04-19;RETIRO;18,7;7,8;ug/m3
+2025-01-29;Retiro;40,0;8,0;ug/m3
+03/09/2025;Parque del Retiro;11,0;3,5;ug/m3
+2025-07-11;casa de campo;2,0;2,5;ug/m3
+2025-01-07;PLAZA DEL CARMEN;57,0;17,5;ug/m3
+2025-04-29;CUATRO CAMINOS;30,7;11,6;ug/m3
+16/01/2025;PLAZA ELIPTICA;60,9;19,2;ug/m3
+28/01/2025;Retiro;25,7;9,0;ug/m3
+20/07/2025;CUATRO CAMINOS;15,2;6,7;ug/m3
+2025-05-26;CUATRO CAMINOS;43,7;9,6;ug/m3
+2025-09-26;Parque del Retiro;15,1;8,2;ug/m3
+2025-11-30;RETIRO;27,2;9,3;ug/m3
+26/12/2025;PLAZA ELIPTICA;53,4;21,2;ug/m3
+2025-07-02;escuelas aguirre;26,3;10,3;ug/m3
+12/07/2025;casa de campo;19,9;6,7;ug/m3
+2025-08-09;RETIRO;15,5;2,5;ug/m3
+2025-10-04;RETIRO;13,9;3,9;ug/m3
+2025-08-14;Plaza Elíptica;37,7;11,0;ug/m3
+2025-03-27; Plaza Elíptica ;58,6;15,4;ug/m3
+2025-03-25;ESCUELAS AGUIRRE;39,9;10,0;ug/m3
+2025-09-27;Retiro;10,7;9,0;ug/m3
+2025-11-19;Cuatro Caminos;53,7;15,9;ug/m3
+2025-09-11;escuelas aguirre;36,0;7,9;ug/m3
+2025-02-26;Plaza del Carmen;51,3;10,6;ug/m3
+2025-11-24;Casa de Campo;13,7;9,6;ug/m3
+2025-07-18;Pza. Elíptica;37,6;10,4;ug/m3
+2025-01-05;Parque del Retiro;28,5;5,8;ug/m3
+2025-09-14;Retiro;-999,0;4,8;ug/m3
+22/07/2025;CUATRO CAMINOS;31,6;7,9;ug/m3
+07/10/2025;Plaza del Carmen;41,0;9,8;ug/m3
+13/05/2025;Plaza del Carmen ;20,6;11,7;ug/m3
+2025-06-07;Casa de Campo;12,9;3,1;ug/m3
+2025-10-21;RETIRO;21,5;1,0;ug/m3
+2025-01-29;escuelas aguirre;55,6;18,8;ug/m3
+2025-12-17;cuatro caminos ;61,8;14,6;ug/m3
+19/07/2025;casa de campo;17,8;3,3;ug/m3
+2025-09-15;Pza. Elíptica;36,8;12,9;ug/m3
+2025-07-28;cuatro caminos ;29,6;9,0;ug/m3
+2025-10-06;PLAZA DEL CARMEN;25,4;7,7;ug/m3
+2025-06-02; Plaza Elíptica ;31,5;7,6;ug/m3
+23/03/2025;Cuatro Caminos;22,9;12,1;ug/m3
+2025-06-08;Cuatro Caminos;12,6;7,6;ug/m3
+2025-07-02;CUATRO CAMINOS;33,5;3,0;ug/m3
+22/06/2025; Plaza Elíptica ;28,0;7,4;ug/m3
+2025-04-08;Cuatro Caminos;38,2;10,1;ug/m3
+2025-05-06;Pza. Elíptica;34,5;15,1;ug/m3
+20/04/2025;Casa de Campo;13,1;6,3;ug/m3
+2025-02-09;Plaza Elíptica;50,5;18,2;ug/m3
+03/05/2025;Plaza Elíptica;39,0;12,3;ug/m3
+2025-08-12;Plaza del Carmen;24,2;7,7;ug/m3
+2025-11-21;Parque del Retiro;26,2;9,1;ug/m3
+2025-07-12;RETIRO;10,5;3,3;ug/m3
+2025-11-07;RETIRO;20,2;4,7;ug/m3
+09/12/2025;Parque del Retiro;32,3;11,0;ug/m3
+20/11/2025;casa de campo;20,0;1,0;ug/m3
+2025-06-05;RETIRO;18,4;6,4;ug/m3
+21/07/2025;casa de campo;15,9;1,0;ug/m3
+2025-06-27;Casa de Campo;16,8;5,4;ug/m3
+2025-01-19;Pza. Elíptica;46,9;22,0;ug/m3
+2025-12-03;Plaza Elíptica;63,2;17,5;ug/m3
+2025-04-05;Retiro;16,8;5,9;ug/m3
+14/07/2025;Casa de Campo;2,0;1,0;ug/m3
+2025-07-15;RETIRO;5,1;-999,0;ug/m3
+2025-09-22;Parque del Retiro;23,2;3,7;ug/m3
+2025-09-09;Escuelas Aguirre;30,5;11,6;ug/m3
+2025-09-06;RETIRO;12,2;2,2;ug/m3
+2025-05-29;Plaza del Carmen;29,6;5,8;ug/m3
+2025-06-07;cuatro caminos ;18,0;5,8;ug/m3
+24/06/2025;Retiro;11,1;1,0;ug/m3
+2025-09-26;cuatro caminos ;38,9;11,8;ug/m3
+2025-11-03;cuatro caminos ;49,3;5,8;ug/m3
+2025-10-16;Plaza del Carmen;23,1;9,8;ug/m3
+2025-05-28;Plaza del Carmen;27,5;3,9;ug/m3
+2025-11-29;cuatro caminos ;37,4;15,3;ug/m3
+2025-12-28;CUATRO CAMINOS;44,0;18,7;ug/m3
+2025-11-04;Parque del Retiro;16,3;6,2;ug/m3
+22/05/2025;RETIRO;17,4;5,9;ug/m3
+2025-09-22;CASA DE CAMPO;16,2;5,3;ug/m3
+2025-08-23;Casa de Campo;10,4;2,6;ug/m3
+03/05/2025;Plaza del Carmen;21,6;4,2;ug/m3
+30/04/2025;Casa de Campo;15,8;8,5;ug/m3
+2025-03-17;RETIRO;25,3;5,0;ug/m3
+2025-02-14;Plaza Elíptica;58,6;14,6;ug/m3
+2025-01-13;CASA DE CAMPO;19,8;4,7;ug/m3
+2025-12-16; Plaza Elíptica ;69,4;15,0;ug/m3
+16/03/2025;Plaza Elíptica;36,8;20,9;ug/m3
+2025-03-07;cuatro caminos ;44,4;11,4;ug/m3
+30/01/2025;Plaza del Carmen ;46,5;13,3;ug/m3
+2025-06-23;RETIRO;16,5;4,4;ug/m3
+2025-12-11;escuelas aguirre;53,7;15,0;ug/m3
+07/10/2025; Plaza Elíptica ;38,4;10,2;ug/m3
+2025-10-29;escuelas aguirre;58,0;8,9;ug/m3
+02/10/2025;PLAZA DEL CARMEN;31,2;6,0;ug/m3
+2025-04-10;Escuelas Aguirre;50,6;14,8;ug/m3
+2025-01-11;escuelas aguirre;39,1;11,5;ug/m3
+05/08/2025;PLAZA ELIPTICA;29,4;9,3;ug/m3
+2025-05-26;Plaza del Carmen;22,1;10,8;ug/m3
+2025-10-25;ESCUELAS AGUIRRE;32,0;13,5;ug/m3
+2025-02-06; Plaza Elíptica ;66,3;17,4;ug/m3
+2025-02-16;PLAZA DEL CARMEN;37,5;9,9;ug/m3
+2025-09-16;PLAZA ELIPTICA;35,7;14,5;ug/m3
+2025-08-21;Plaza Elíptica;32,3;11,2;ug/m3
+2025-01-07; Plaza Elíptica ;66,4;21,4;ug/m3
+2025-10-30;Plaza Elíptica;56,2;14,6;ug/m3
+2025-04-21;PLAZA DEL CARMEN;32,0;9,8;ug/m3
+2025-12-18;Plaza del Carmen;57,2;11,7;ug/m3
+16/10/2025; Plaza Elíptica ;-999,0;9,8;ug/m3
+2025-06-12;CUATRO CAMINOS;20,4;12,9;ug/m3
+2025-09-19;CUATRO CAMINOS;32,0;9,1;ug/m3
+2025-11-10;PLAZA ELIPTICA;-999,0;12,3;ug/m3
+2025-05-04;Pza. Elíptica;29,3;11,6;ug/m3
+2025-02-01;Cuatro Caminos;32,9;14,7;ug/m3
+2025-06-03;Escuelas Aguirre;24,1;8,2;ug/m3
+2025-03-18;PLAZA ELIPTICA;51,6;15,6;ug/m3
+2025-08-25;Escuelas Aguirre;39,2;5,5;ug/m3
+2025-04-23;CASA DE CAMPO;22,7;5,5;ug/m3
+2025-05-07;Parque del Retiro;23,1;12,4;ug/m3
+2025-12-18;Casa de Campo;24,6;8,6;ug/m3
+2025-11-15;RETIRO;21,4;9,1;ug/m3
+2025-05-02;Plaza del Carmen;31,3;9,7;ug/m3
+24/11/2025;Parque del Retiro;33,7;5,6;ug/m3
+22/08/2025;Escuelas Aguirre;27,2;8,4;ug/m3
+2025-03-10;Retiro;34,5;6,2;ug/m3
+2025-07-03; Plaza Elíptica ;23,7;8,9;ug/m3
+2025-09-10;Retiro;14,1;3,3;ug/m3
+02/10/2025;CUATRO CAMINOS;40,0;7,5;ug/m3
+2025-09-12;Plaza Elíptica;37,2;11,4;ug/m3
+2025-05-18;casa de campo;19,8;2,5;ug/m3
+26/10/2025;Plaza del Carmen;26,1;10,2;ug/m3
+2025-04-13;Parque del Retiro;12,4;7,2;ug/m3
+2025-01-20; Plaza Elíptica ;57,3;15,9;ug/m3
+2025-03-11;CASA DE CAMPO;22,0;7,5;ug/m3
+2025-12-27;Cuatro Caminos;36,2;15,0;ug/m3
+2025-09-28;CUATRO CAMINOS;18,7;11,1;ug/m3
+2025-06-11;Casa de Campo;19,2;1,0;ug/m3
+11/04/2025;Retiro;14,6;4,4;ug/m3
+05/08/2025;Plaza del Carmen;27,8;3,6;ug/m3
+2025-01-15;cuatro caminos ;43,0;17,4;ug/m3
+2025-05-22;Plaza del Carmen ;21,5;6,5;ug/m3
+2025-10-31;Plaza Elíptica;42,3;9,5;ug/m3
+2025-12-28;PLAZA DEL CARMEN;35,7;12,1;ug/m3
+2025-05-06;CASA DE CAMPO;15,0;3,8;ug/m3
+25/03/2025; Plaza Elíptica ;54,8;17,7;ug/m3
+2025-08-01;Parque del Retiro;19,0;8,2;ug/m3
+2025-08-09;cuatro caminos ;8,6;4,0;ug/m3
+2025-09-29;RETIRO;11,0;7,4;ug/m3
+2025-01-02;cuatro caminos ;49,8;14,3;ug/m3
+2025-03-08;Pza. Elíptica;42,4;11,9;ug/m3
+2025-02-17;Plaza del Carmen;56,5;14,2;ug/m3
+2025-12-27;ESCUELAS AGUIRRE;42,5;19,1;ug/m3
+2025-06-27;Retiro;13,3;6,8;ug/m3
+2025-07-18;Casa de Campo;8,1;1,0;ug/m3
+2025-08-29; Plaza Elíptica ;43,1;12,6;ug/m3
+2025-09-24;RETIRO;15,8;5,4;ug/m3
+11/12/2025;CASA DE CAMPO;20,2;6,2;ug/m3
+11/12/2025;PLAZA DEL CARMEN;32,5;12,1;ug/m3
+2025-08-30;Parque del Retiro;14,6;5,0;ug/m3
+2025-04-26; Plaza Elíptica ;20,5;11,4;ug/m3
+2025-11-21;PLAZA DEL CARMEN;-999,0;-999,0;ug/m3
+2025-09-19;Plaza del Carmen;22,6;11,5;ug/m3
+2025-12-24;cuatro caminos ;60,7;16,1;ug/m3
+2025-04-25;Cuatro Caminos;31,6;12,1;ug/m3
+2025-10-09;escuelas aguirre;42,2;7,8;ug/m3
+22/05/2025;cuatro caminos ;44,6;11,4;ug/m3
+2025-09-07;Retiro;23,3;6,4;ug/m3
+2025-01-27;Casa de Campo;-999,0;6,6;ug/m3
+2025-05-30;escuelas aguirre;33,4;8,8;ug/m3
+10/11/2025;RETIRO;23,3;9,8;ug/m3
+2025-02-12;CUATRO CAMINOS;57,2;13,6;ug/m3
+2025-02-25;cuatro caminos ;46,5;12,9;ug/m3
+25/12/2025;ESCUELAS AGUIRRE;50,7;13,1;ug/m3
+23/06/2025;ESCUELAS AGUIRRE;33,3;12,1;ug/m3
+2025-03-27;cuatro caminos ;39,6;10,4;ug/m3
+2025-08-13;Retiro;11,9;2,6;ug/m3
+2025-06-19;escuelas aguirre;35,4;7,2;ug/m3
+2025-05-09;Plaza Elíptica;30,5;9,3;ug/m3
+2025-12-12;CASA DE CAMPO;22,3;3,4;ug/m3
+2025-03-15;casa de campo;17,6;2,9;ug/m3
+23/10/2025;Parque del Retiro;17,7;8,4;ug/m3
+2025-05-07;Cuatro Caminos;30,7;13,1;ug/m3
+2025-07-27;RETIRO;18,0;1,0;ug/m3
+2025-07-20;CASA DE CAMPO;20,9;10,1;ug/m3
+2025-10-20;Parque del Retiro;21,8;7,7;ug/m3
+2025-07-07;Escuelas Aguirre;28,8;7,1;ug/m3
+2025-03-28;CUATRO CAMINOS;38,9;13,0;ug/m3
+2025-01-04;Retiro;28,6;8,9;ug/m3
+2025-03-01;PLAZA DEL CARMEN;30,5;15,0;ug/m3
+2025-08-01;cuatro caminos ;41,9;9,0;ug/m3
+2025-08-07;Retiro;23,6;6,2;ug/m3
+30/09/2025;CASA DE CAMPO;2,0;2,1;ug/m3
+02/12/2025;escuelas aguirre;45,3;14,1;ug/m3
+2025-02-26;Parque del Retiro;26,4;3,7;ug/m3
+2025-03-13;cuatro caminos ;47,6;13,9;ug/m3
+2025-03-20;CUATRO CAMINOS;47,9;12,9;ug/m3
+2025-02-06;Escuelas Aguirre;51,8;15,4;ug/m3
+2025-06-01;CUATRO CAMINOS;16,1;9,5;ug/m3
+24/07/2025;casa de campo;11,4;1,0;ug/m3
+2025-11-14;CASA DE CAMPO;20,6;5,1;ug/m3
+2025-06-18;Casa de Campo;8,7;3,9;ug/m3
+2025-06-09;CASA DE CAMPO;10,9;1,6;ug/m3
+2025-01-16;CASA DE CAMPO;36,8;7,0;ug/m3
+2025-06-18;Pza. Elíptica;29,2;10,9;ug/m3
+2025-06-28;PLAZA DEL CARMEN;9,1;1,5;ug/m3
+02/07/2025; Plaza Elíptica ;37,1;8,8;ug/m3
+12/11/2025;casa de campo;21,8;4,5;ug/m3
+07/08/2025;Pza. Elíptica;30,8;-999,0;ug/m3
+2025-04-27; Plaza Elíptica ;48,3;13,5;ug/m3
+04/07/2025;cuatro caminos ;34,0;8,9;ug/m3
+2025-06-16; Plaza Elíptica ;21,0;9,5;ug/m3
+2025-09-01; Plaza Elíptica ;35,4;10,0;ug/m3
+2025-10-07;cuatro caminos ;38,7;10,7;ug/m3
+2025-01-26;CASA DE CAMPO;16,7;6,8;ug/m3
+2025-07-03;ESCUELAS AGUIRRE;27,9;5,0;ug/m3
+2025-02-11; Plaza Elíptica ;64,8;19,9;ug/m3
+2025-05-15;Parque del Retiro;-999,0;7,1;ug/m3
+12/05/2025;casa de campo;10,8;4,4;ug/m3
+2025-04-07;Retiro;17,9;2,8;ug/m3
+2025-09-03;Plaza Elíptica;34,7;12,9;ug/m3
+2025-04-28;ESCUELAS AGUIRRE;43,7;11,2;ug/m3
+2025-07-22;PLAZA ELIPTICA;26,5;8,5;ug/m3
+04/08/2025;CUATRO CAMINOS;20,7;5,1;ug/m3
+2025-11-28;Parque del Retiro;15,9;8,5;ug/m3
+2025-07-30;Pza. Elíptica;27,2;9,2;ug/m3
+2025-03-23;escuelas aguirre;36,7;11,7;ug/m3
+2025-09-28;Retiro;19,2;2,0;ug/m3
+2025-04-04;ESCUELAS AGUIRRE;51,6;9,6;ug/m3
+2025-07-10;Escuelas Aguirre;26,7;7,4;ug/m3
+2025-12-10;escuelas aguirre;55,1;14,0;ug/m3
+2025-07-06;casa de campo;3,4;3,7;ug/m3
+2025-05-14;Casa de Campo;19,3;7,3;ug/m3
+27/03/2025;Plaza del Carmen ;42,4;10,4;ug/m3
+2025-04-16;Casa de Campo;17,1;3,0;ug/m3
+2025-10-22;CUATRO CAMINOS;33,4;-999,0;ug/m3
+2025-10-05;PLAZA DEL CARMEN;29,0;13,4;ug/m3
+2025-06-18;Parque del Retiro;18,7;4,7;ug/m3
+2025-11-04;cuatro caminos ;53,3;13,6;ug/m3
+2025-07-11;Retiro;15,8;3,4;ug/m3
+12/05/2025;Parque del Retiro;14,3;2,2;ug/m3
+2025-01-20;PLAZA DEL CARMEN;50,5;-999,0;ug/m3
+2025-09-07;casa de campo;20,2;3,8;ug/m3
+04/05/2025;Plaza del Carmen ;20,4;8,1;ug/m3
+2025-12-04;ESCUELAS AGUIRRE;51,0;17,4;ug/m3
+2025-06-30;escuelas aguirre;18,7;-999,0;ug/m3
+2025-09-29;Escuelas Aguirre;38,4;8,6;ug/m3
+19/05/2025;PLAZA DEL CARMEN;23,5;3,7;ug/m3
+2025-01-20;cuatro caminos ;47,5;16,9;ug/m3
+2025-04-20;Plaza del Carmen;17,8;8,5;ug/m3
+2025-11-26;Cuatro Caminos;-999,0;14,9;ug/m3
+17/11/2025;PLAZA DEL CARMEN;35,2;12,0;ug/m3
+2025-12-27;Parque del Retiro;27,6;8,8;ug/m3
+2025-04-16;CUATRO CAMINOS;42,5;9,4;ug/m3
+2025-03-03;Casa de Campo;26,3;8,6;ug/m3
+14/02/2025;RETIRO;27,5;9,0;ug/m3
+20/04/2025;ESCUELAS AGUIRRE;24,5;11,3;ug/m3
+05/06/2025;CUATRO CAMINOS;36,5;13,0;ug/m3
+18/05/2025;Pza. Elíptica;26,4;11,1;ug/m3
+2025-05-25;Plaza del Carmen;18,5;9,8;ug/m3
+2025-01-08;RETIRO;40,9;6,2;ug/m3
+2025-08-17;Cuatro Caminos;25,0;7,5;ug/m3
+2025-12-07;Retiro;38,8;9,7;ug/m3
+15/06/2025;ESCUELAS AGUIRRE;18,8;10,6;ug/m3
+2025-05-27;Pza. Elíptica;-999,0;11,0;ug/m3
+09/05/2025;CUATRO CAMINOS;18,9;7,6;ug/m3
+2025-07-23;ESCUELAS AGUIRRE;27,1;9,8;ug/m3
+2025-07-07;RETIRO;18,0;1,0;ug/m3
+2025-01-01;Retiro;28,4;6,6;ug/m3
+2025-12-16;PLAZA DEL CARMEN;52,6;15,5;ug/m3
+17/06/2025;escuelas aguirre;25,1;8,8;ug/m3
+29/11/2025;escuelas aguirre;36,4;11,9;ug/m3
+2025-12-09;CUATRO CAMINOS;56,0;11,5;ug/m3
+2025-02-13;cuatro caminos ;49,9;9,3;ug/m3
+2025-11-09;Retiro;22,0;5,8;ug/m3
+2025-04-13;Pza. Elíptica;30,9;12,1;ug/m3
+15/03/2025;cuatro caminos ;24,1;10,8;ug/m3
+2025-06-17;Plaza Elíptica;37,4;7,1;ug/m3
+2025-06-29;Casa de Campo;6,0;5,8;ug/m3
+20/05/2025;CASA DE CAMPO;18,9;1,6;ug/m3
+2025-04-24;casa de campo;15,1;1,0;ug/m3
+2025-10-13;Cuatro Caminos;47,4;14,7;ug/m3
+2025-02-20;RETIRO;21,6;8,7;ug/m3
+2025-08-16;casa de campo;12,5;1,6;ug/m3
+2025-11-07;Plaza del Carmen;53,7;11,7;ug/m3
+2025-02-22;escuelas aguirre;37,6;17,1;ug/m3
+25/01/2025;cuatro caminos ;33,4;16,2;ug/m3
+11/07/2025;Plaza del Carmen ;14,2;8,3;ug/m3
+22/07/2025;Escuelas Aguirre;28,4;7,2;ug/m3
+2025-04-06;RETIRO;35,5;4,3;ug/m3
+2025-10-14;cuatro caminos ;36,5;11,8;ug/m3
+2025-10-09;Plaza del Carmen ;30,5;9,4;ug/m3
+09/01/2025;Plaza del Carmen ;39,5;10,5;ug/m3
+2025-11-06;Plaza del Carmen ;45,9;12,5;ug/m3
+2025-05-02;Plaza Elíptica;43,2;10,7;ug/m3
+2025-05-19;Cuatro Caminos;33,5;7,2;ug/m3
+2025-08-18;CASA DE CAMPO;15,8;8,7;ug/m3
+2025-07-05;cuatro caminos ;15,4;4,9;ug/m3
+2025-07-14;Plaza del Carmen ;29,6;7,8;ug/m3
+2025-03-20;Plaza del Carmen;43,0;16,9;ug/m3
+2025-06-11;Cuatro Caminos;23,4;4,7;ug/m3
+2025-04-19;cuatro caminos ;21,4;14,0;ug/m3
+2025-03-08;casa de campo;21,4;5,9;ug/m3
+27/03/2025;Escuelas Aguirre;50,4;8,9;ug/m3
+2025-11-16;Plaza del Carmen;25,1;8,4;ug/m3
+23/02/2025;Plaza del Carmen ;27,0;12,6;ug/m3
+2025-01-04;Escuelas Aguirre;32,5;12,5;ug/m3
+2025-04-25;PLAZA ELIPTICA;47,3;13,0;ug/m3
+2025-01-06;Cuatro Caminos;46,2;15,5;ug/m3
+2025-05-31;PLAZA DEL CARMEN;20,3;4,9;ug/m3
+2025-12-15;Casa de Campo;18,6;6,0;ug/m3
+2025-05-18;Cuatro Caminos;23,4;8,8;ug/m3
+2025-03-29;Plaza del Carmen;24,1;13,3;ug/m3
+2025-03-09;CUATRO CAMINOS;35,6;10,8;ug/m3
+03/06/2025;Plaza del Carmen ;31,5;8,0;ug/m3
+2025-03-31;Casa de Campo;18,8;9,6;ug/m3
+2025-05-07;Plaza del Carmen ;28,5;8,8;ug/m3
+2025-10-12;ESCUELAS AGUIRRE;25,5;10,9;ug/m3
+2025-12-27;Casa de Campo;26,8;10,2;ug/m3
+2025-06-27; Plaza Elíptica ;30,5;9,9;ug/m3
+2025-07-19;Cuatro Caminos;16,1;6,9;ug/m3
+2025-02-10;Cuatro Caminos;48,7;13,0;ug/m3
+2025-11-02;Parque del Retiro;31,9;3,2;ug/m3
+2025-08-25;PLAZA ELIPTICA;45,3;9,2;ug/m3
+07/07/2025;CUATRO CAMINOS;32,1;8,2;ug/m3
+11/05/2025;Parque del Retiro;18,9;2,2;ug/m3
+2025-08-23;Cuatro Caminos;13,4;7,5;ug/m3
+2025-03-23;CASA DE CAMPO;13,3;9,7;ug/m3
+2025-01-26;Parque del Retiro;36,7;11,1;ug/m3
+2025-10-05; Plaza Elíptica ;32,8;8,5;ug/m3
+2025-06-10;ESCUELAS AGUIRRE;23,8;9,2;ug/m3
+2025-10-09;Plaza Elíptica;43,0;11,8;ug/m3
+2025-05-23;ESCUELAS AGUIRRE;35,2;7,3;ug/m3
+2025-08-07;Casa de Campo;12,3;7,7;ug/m3
+2025-04-15;escuelas aguirre;32,0;8,7;ug/m3
+2025-10-30;CASA DE CAMPO;4,4;5,3;ug/m3
+2025-04-25;ESCUELAS AGUIRRE;36,3;11,1;ug/m3
+2025-11-08;Plaza del Carmen ;28,0;10,4;ug/m3
+05/04/2025;CUATRO CAMINOS;26,7;12,2;ug/m3
+2025-04-05;escuelas aguirre;35,0;12,8;ug/m3
+21/10/2025;Plaza Elíptica;42,7;10,0;ug/m3
+2025-10-30;Parque del Retiro;34,4;1,1;ug/m3
+2025-01-03;Cuatro Caminos;56,6;13,9;ug/m3
+2025-01-22;Escuelas Aguirre;52,9;17,0;ug/m3
+2025-08-13;PLAZA DEL CARMEN;20,6;6,4;ug/m3
+2025-08-02;escuelas aguirre;29,3;8,1;ug/m3
+2025-10-31;Plaza Elíptica;42,3;9,5;ug/m3
+2025-06-04;casa de campo;14,0;1,0;ug/m3
+2025-06-13;Plaza del Carmen;21,9;5,2;ug/m3
+2025-02-12;Plaza Elíptica;66,3;19,2;ug/m3
+2025-02-01;Retiro;28,5;11,1;ug/m3
+09/07/2025;Cuatro Caminos;24,8;7,6;ug/m3
+2025-06-15;Plaza del Carmen;15,7;7,5;ug/m3
+2025-04-27;Casa de Campo;26,9;9,7;ug/m3
+2025-11-27;Pza. Elíptica;63,0;13,5;ug/m3
+2025-04-12;PLAZA ELIPTICA;31,8;14,3;ug/m3
+2025-01-31;Pza. Elíptica;57,5;15,0;ug/m3
+2025-02-20;ESCUELAS AGUIRRE;56,7;16,5;ug/m3
+2025-03-24;Retiro;40,6;6,1;ug/m3
+05/12/2025;PLAZA DEL CARMEN;49,7;8,7;ug/m3
+2025-12-08;Pza. Elíptica;62,1;13,3;ug/m3
+27/11/2025;Cuatro Caminos;39,5;9,2;ug/m3
+2025-12-14;Plaza del Carmen;37,8;12,1;ug/m3
+23/11/2025;Escuelas Aguirre;33,9;12,9;ug/m3
+2025-03-28;ESCUELAS AGUIRRE;43,9;12,3;ug/m3
+21/08/2025;Parque del Retiro;25,0;4,6;ug/m3
+2025-06-28;ESCUELAS AGUIRRE;25,9;9,1;ug/m3
+2025-03-21;Plaza del Carmen;36,2;15,1;ug/m3
+2025-01-27;ESCUELAS AGUIRRE;66,5;20,1;ug/m3
+27/07/2025;ESCUELAS AGUIRRE;-999,0;6,5;ug/m3
+2025-07-19;ESCUELAS AGUIRRE;24,6;11,5;ug/m3
+2025-01-03;Retiro;-999,0;6,6;ug/m3
+2025-09-13;Cuatro Caminos;25,9;10,8;ug/m3
+2025-06-28;RETIRO;13,7;2,9;ug/m3
+2025-01-17;PLAZA ELIPTICA;71,4;15,7;ug/m3
+2025-04-02;Pza. Elíptica;44,4;12,0;ug/m3
+2025-09-14;CASA DE CAMPO;2,0;5,7;ug/m3
+20/04/2025;RETIRO;12,0;8,8;ug/m3
+20/11/2025;Escuelas Aguirre;53,9;12,4;ug/m3
+2025-11-05;RETIRO;18,5;-999,0;ug/m3
+2025-06-19;Cuatro Caminos;29,6;6,7;ug/m3
+2025-12-04;Pza. Elíptica;67,0;16,7;ug/m3
+2025-09-08;RETIRO;22,8;2,9;ug/m3
+09/06/2025;cuatro caminos ;-999,0;8,8;ug/m3
+2025-12-25;Casa de Campo;25,7;6,3;ug/m3
+17/02/2025;escuelas aguirre;50,4;18,9;ug/m3
+30/09/2025;Plaza Elíptica;45,3;13,5;ug/m3
+13/05/2025;CUATRO CAMINOS;33,9;11,7;ug/m3
+20/11/2025;PLAZA DEL CARMEN;42,7;11,3;ug/m3
+2025-02-07;Casa de Campo;17,2;8,4;ug/m3
+2025-01-05;Plaza del Carmen ;34,1;9,7;ug/m3
+2025-12-14;Parque del Retiro;23,5;11,4;ug/m3
+2025-10-27;CUATRO CAMINOS;51,9;13,1;ug/m3
+2025-03-14;CUATRO CAMINOS;48,9;14,8;ug/m3
+2025-12-31;PLAZA ELIPTICA;68,3;20,7;ug/m3
+2025-08-20;PLAZA DEL CARMEN;26,5;9,9;ug/m3
+08/02/2025;Escuelas Aguirre;39,4;14,9;ug/m3
+07/01/2025;ESCUELAS AGUIRRE;59,1;19,7;ug/m3
+10/10/2025;Escuelas Aguirre;54,0;15,4;ug/m3
+2025-05-05;Cuatro Caminos;51,3;13,3;ug/m3
+2025-06-24;escuelas aguirre;34,9;3,7;ug/m3
+2025-08-22;Plaza Elíptica;33,2;9,3;ug/m3
+2025-03-20;ESCUELAS AGUIRRE;56,9;13,8;ug/m3
+2025-11-14;Retiro;20,5;7,5;ug/m3
+2025-12-04;RETIRO;27,8;10,2;ug/m3
+05/03/2025;Cuatro Caminos;42,9;14,3;ug/m3
+2025-04-25;casa de campo;13,0;4,6;ug/m3
+2025-06-26; Plaza Elíptica ;25,2;7,5;ug/m3
+2025-04-17;CASA DE CAMPO;22,9;4,7;ug/m3
+2025-12-08;Casa de Campo;27,7;6,6;ug/m3
+2025-07-23;PLAZA ELIPTICA;32,6;12,8;ug/m3
+2025-07-13; Plaza Elíptica ;28,7;10,2;ug/m3
+24/08/2025;CUATRO CAMINOS;19,6;9,7;ug/m3
+22/11/2025;CASA DE CAMPO;22,6;5,9;ug/m3
+2025-09-12;casa de campo;20,4;1,0;ug/m3
+26/11/2025;RETIRO;28,3;2,9;ug/m3
+2025-08-05;RETIRO;17,0;4,1;ug/m3
+2025-12-20;Pza. Elíptica;40,2;13,1;ug/m3
+2025-05-14;Plaza del Carmen;38,3;8,5;ug/m3
+2025-09-25;ESCUELAS AGUIRRE;28,6;11,9;ug/m3
+2025-01-27;RETIRO;29,6;8,9;ug/m3
+2025-10-12; Plaza Elíptica ;33,9;17,1;ug/m3
+2025-06-09;PLAZA DEL CARMEN;14,3;7,7;ug/m3
+2025-10-18;casa de campo;18,4;2,6;ug/m3
+2025-07-17;Retiro;12,6;4,0;ug/m3
+2025-05-17;cuatro caminos ;15,9;6,8;ug/m3
+2025-10-16;Escuelas Aguirre;39,8;11,0;ug/m3
+2025-12-02;Pza. Elíptica;62,4;-999,0;ug/m3
+2025-05-27;Escuelas Aguirre;29,3;6,7;ug/m3
+2025-11-16;CUATRO CAMINOS;-999,0;14,7;ug/m3
+2025-06-02;Escuelas Aguirre;18,5;9,4;ug/m3
+2025-11-11;Plaza Elíptica;63,8;15,9;ug/m3
+2025-01-26;Plaza del Carmen ;37,0;15,5;ug/m3
+2025-01-17;PLAZA DEL CARMEN;47,3;19,7;ug/m3
+2025-12-15;ESCUELAS AGUIRRE;52,8;14,3;ug/m3
+2025-03-26;Cuatro Caminos;50,4;11,8;ug/m3
+2025-07-09;escuelas aguirre;24,0;9,6;ug/m3
+2025-07-28;PLAZA DEL CARMEN;19,1;4,4;ug/m3
+2025-11-28;Plaza del Carmen;32,6;11,9;ug/m3
+2025-11-09;CASA DE CAMPO;19,7;3,9;ug/m3
+2025-01-18;ESCUELAS AGUIRRE;32,4;8,5;ug/m3
+29/08/2025;CUATRO CAMINOS;28,9;9,4;ug/m3
+2025-08-29;casa de campo;20,8;1,0;ug/m3
+2025-10-02;Retiro;24,6;4,4;ug/m3
+08/04/2025;Parque del Retiro;21,1;-999,0;ug/m3
+2025-04-15;casa de campo;12,7;5,5;ug/m3
+2025-11-20;CUATRO CAMINOS;52,0;15,0;ug/m3
+10/10/2025;RETIRO;23,0;3,8;ug/m3
+2025-07-10;casa de campo;14,2;1,0;ug/m3
+2025-01-09;Cuatro Caminos;52,5;14,4;ug/m3
+2025-01-26;escuelas aguirre;27,7;18,3;ug/m3
+2025-03-09;ESCUELAS AGUIRRE;38,4;12,4;ug/m3
+2025-07-12;Plaza del Carmen ;29,0;5,4;ug/m3
+04/02/2025;casa de campo;17,7;4,1;ug/m3
+2025-12-26;PLAZA DEL CARMEN;45,8;15,7;ug/m3
+2025-10-08;PLAZA DEL CARMEN;37,6;10,4;ug/m3
+2025-07-07; Plaza Elíptica ;26,6;10,9;ug/m3
+2025-07-29;PLAZA DEL CARMEN;23,3;8,6;ug/m3
+2025-01-02;Plaza del Carmen;51,4;14,5;ug/m3
+2025-06-19;Plaza Elíptica;23,7;9,1;ug/m3
+2025-12-17;PLAZA DEL CARMEN;42,5;11,2;ug/m3
+2025-06-26;Parque del Retiro;22,0;6,3;ug/m3
+17/03/2025;Plaza del Carmen;44,6;17,0;ug/m3
+2025-10-07;escuelas aguirre;37,3;11,7;ug/m3
+2025-02-12;escuelas aguirre;65,1;14,1;ug/m3
+2025-08-10;escuelas aguirre;22,1;10,8;ug/m3
+30/05/2025;PLAZA DEL CARMEN;31,1;5,6;ug/m3
+11/12/2025;Pza. Elíptica;56,1;16,1;ug/m3
+27/05/2025;Retiro;26,2;7,3;ug/m3
+2025-09-23;Cuatro Caminos;25,7;11,2;ug/m3
+2025-12-25;Cuatro Caminos;58,9;18,4;ug/m3
+2025-04-14;CUATRO CAMINOS;43,2;16,5;ug/m3
+2025-02-27;casa de campo;12,2;6,9;ug/m3
+2025-12-06;CASA DE CAMPO;14,5;4,6;ug/m3
+2025-10-25;cuatro caminos ;36,1;13,9;ug/m3
+13/02/2025;Parque del Retiro;28,6;13,1;ug/m3
+2025-09-30;Plaza del Carmen ;32,5;10,8;ug/m3
+2025-08-09;escuelas aguirre;21,5;3,0;ug/m3
+2025-08-28;Retiro;17,6;7,0;ug/m3
+26/01/2025;Plaza Elíptica;46,8;18,5;ug/m3
+25/11/2025;ESCUELAS AGUIRRE;51,0;18,7;ug/m3
+20/03/2025;RETIRO;34,3;7,6;ug/m3
+26/11/2025;Plaza del Carmen ;43,2;11,7;ug/m3
+2025-10-28;Plaza del Carmen ;31,4;11,2;ug/m3
+2025-04-17;Parque del Retiro;16,4;7,2;ug/m3
+2025-05-26;Escuelas Aguirre;28,6;8,8;ug/m3
+2025-12-25;Retiro;22,4;8,7;ug/m3
+2025-04-02;RETIRO;23,6;8,4;ug/m3
+15/12/2025;Parque del Retiro;25,0;7,1;ug/m3
+2025-11-23;CASA DE CAMPO;29,6;10,2;ug/m3
+2025-06-04;Parque del Retiro;10,9;5,7;ug/m3
+2025-03-23;Plaza del Carmen ;21,1;11,9;ug/m3
+2025-11-04;Escuelas Aguirre;42,4;12,4;ug/m3
+2025-10-17;Plaza Elíptica;50,3;18,6;ug/m3
+2025-12-18;Cuatro Caminos;52,8;16,7;ug/m3
+2025-07-15;ESCUELAS AGUIRRE;24,4;11,8;ug/m3
+2025-01-25;PLAZA DEL CARMEN;35,2;10,1;ug/m3
+2025-12-06;cuatro caminos ;44,2;9,6;ug/m3
+2025-11-28;Pza. Elíptica;55,5;21,3;ug/m3
+2025-08-17;ESCUELAS AGUIRRE;19,5;4,8;ug/m3
+09/03/2025; Plaza Elíptica ;37,4;16,4;ug/m3
+2025-12-28;ESCUELAS AGUIRRE;39,4;10,8;ug/m3
+2025-06-09;PLAZA ELIPTICA;36,2;7,8;ug/m3
+2025-12-25;PLAZA ELIPTICA;68,3;16,4;ug/m3
+2025-04-20;CUATRO CAMINOS;32,0;11,8;ug/m3
+2025-10-27;Pza. Elíptica;41,3;14,7;ug/m3
+2025-08-17;RETIRO;15,5;3,5;ug/m3
+2025-03-19;ESCUELAS AGUIRRE;55,5;14,4;ug/m3
+2025-08-13;Cuatro Caminos;19,5;7,9;ug/m3
+2025-02-01;PLAZA ELIPTICA;48,2;16,4;ug/m3
+2025-07-11;ESCUELAS AGUIRRE;18,3;5,5;ug/m3
+2025-07-24;Pza. Elíptica;31,9;7,2;ug/m3
+12/04/2025;Plaza del Carmen ;23,2;7,0;ug/m3
+2025-01-24;cuatro caminos ;52,6;17,9;ug/m3
+2025-05-06;escuelas aguirre;30,7;7,3;ug/m3
+2025-09-13;RETIRO;25,3;5,8;ug/m3
+2025-11-18;Retiro;-999,0;11,4;ug/m3
+13/06/2025;casa de campo;8,8;2,4;ug/m3
+02/02/2025;cuatro caminos ;38,2;13,1;ug/m3
+2025-09-30;ESCUELAS AGUIRRE;37,3;7,2;ug/m3
+2025-05-28;ESCUELAS AGUIRRE;18,8;10,1;ug/m3
+2025-11-07;PLAZA ELIPTICA;64,2;16,4;ug/m3
+16/02/2025;CASA DE CAMPO;12,2;8,6;ug/m3
+2025-02-18;CUATRO CAMINOS;47,7;15,4;ug/m3
+2025-05-08;Parque del Retiro;11,1;6,4;ug/m3
+2025-03-08;RETIRO;21,8;7,8;ug/m3
+21/01/2025;Plaza del Carmen ;48,6;8,8;ug/m3
+2025-02-03;Parque del Retiro;26,4;10,4;ug/m3
+2025-05-20;escuelas aguirre;37,3;7,9;ug/m3
+2025-08-28;CUATRO CAMINOS;15,9;9,8;ug/m3
+2025-10-16;Cuatro Caminos;44,4;-999,0;ug/m3
+2025-10-10;Casa de Campo;10,0;3,4;ug/m3
+2025-10-12;casa de campo;23,0;3,9;ug/m3
+25/12/2025;Plaza del Carmen ;49,4;16,2;ug/m3
+12/07/2025;Escuelas Aguirre;10,1;8,6;ug/m3
+2025-10-04;Cuatro Caminos;20,3;8,7;ug/m3
+2025-10-21;Escuelas Aguirre;45,1;12,6;ug/m3
+2025-05-23;Plaza del Carmen ;36,1;7,1;ug/m3
+2025-09-22;cuatro caminos ;-999,0;13,1;ug/m3
+17/04/2025;Cuatro Caminos;55,8;10,5;ug/m3
+2025-01-01;Escuelas Aguirre;48,5;16,1;ug/m3
+2025-04-27;PLAZA DEL CARMEN;17,7;10,5;ug/m3
+30/09/2025;Retiro;25,2;6,1;ug/m3
+2025-08-04;Escuelas Aguirre;31,9;7,9;ug/m3
+2025-12-18;Parque del Retiro;24,6;9,4;ug/m3
+2025-09-11;Plaza del Carmen ;22,0;8,3;ug/m3
+2025-11-05;CUATRO CAMINOS;50,5;12,8;ug/m3
+2025-07-09;Plaza del Carmen;23,9;8,7;ug/m3
+2025-12-29; Plaza Elíptica ;64,8;19,8;ug/m3
+2025-09-29;Cuatro Caminos;41,7;12,4;ug/m3
+2025-11-30;PLAZA ELIPTICA;45,1;15,0;ug/m3
+2025-04-21;CASA DE CAMPO;14,5;5,9;ug/m3
+2025-04-24;CUATRO CAMINOS;32,6;11,9;ug/m3
+2025-07-29;Casa de Campo;3,1;3,9;ug/m3
+22/02/2025;cuatro caminos ;35,7;14,7;ug/m3
+2025-04-19;PLAZA ELIPTICA;28,1;13,4;ug/m3
+28/08/2025; Plaza Elíptica ;38,6;14,3;ug/m3
+2025-09-04;casa de campo;16,6;1,3;ug/m3
+2025-04-29;ESCUELAS AGUIRRE;37,4;7,8;ug/m3
+2025-08-02;Parque del Retiro;3,1;9,3;ug/m3
+2025-10-22;RETIRO;20,0;5,9;ug/m3
+2025-06-12;Pza. Elíptica;41,4;7,4;ug/m3
+2025-08-06;RETIRO;18,6;1,0;ug/m3
+2025-08-22;PLAZA DEL CARMEN;29,9;-999,0;ug/m3
+2025-08-23;Parque del Retiro;5,4;3,9;ug/m3
+07/09/2025;PLAZA DEL CARMEN;13,2;9,4;ug/m3
+2025-12-06;Retiro;33,8;9,1;ug/m3
+2025-09-12;cuatro caminos ;16,5;10,0;ug/m3
+2025-10-05;Escuelas Aguirre;21,4;15,4;ug/m3
+2025-08-14;Retiro;21,6;1,0;ug/m3
+2025-12-26;RETIRO;35,6;9,4;ug/m3
+2025-12-29;ESCUELAS AGUIRRE;50,0;18,2;ug/m3
+2025-10-01;cuatro caminos ;42,7;11,8;ug/m3
+2025-06-25;ESCUELAS AGUIRRE;22,6;13,1;ug/m3
+2025-05-13;CASA DE CAMPO;2,0;3,6;ug/m3
+2025-09-24;ESCUELAS AGUIRRE;35,2;12,8;ug/m3
+2025-10-31;ESCUELAS AGUIRRE;44,6;13,7;ug/m3
+2025-10-15;Plaza Elíptica;49,0;18,5;ug/m3
+2025-07-17;escuelas aguirre;33,1;14,0;ug/m3
+26/06/2025;Casa de Campo;8,8;2,3;ug/m3
+2025-04-01; Plaza Elíptica ;46,3;12,9;ug/m3
+2025-10-07;RETIRO;22,0;6,5;ug/m3
+2025-10-20;Cuatro Caminos;49,8;11,6;ug/m3
+2025-11-17;CASA DE CAMPO;13,5;5,0;ug/m3
+2025-01-16;cuatro caminos ;41,6;12,3;ug/m3
+2025-06-20; Plaza Elíptica ;38,2;7,3;ug/m3
+2025-04-04;cuatro caminos ;40,4;18,6;ug/m3
+24/05/2025;Cuatro Caminos;26,5;7,3;ug/m3
+2025-09-05;Plaza del Carmen ;27,4;7,8;ug/m3
+2025-11-10;casa de campo;20,4;5,6;ug/m3
+2025-06-23;Pza. Elíptica;31,0;10,6;ug/m3
+2025-02-04;Plaza del Carmen ;48,8;9,9;ug/m3
+2025-03-07;PLAZA DEL CARMEN;40,4;9,8;ug/m3
+2025-05-26;PLAZA ELIPTICA;42,2;9,3;ug/m3
+2025-03-08;Escuelas Aguirre;42,8;11,3;ug/m3
+2025-12-21;Casa de Campo;18,3;9,1;ug/m3
+2025-06-21;PLAZA DEL CARMEN;19,0;6,8;ug/m3
+2025-09-05;Casa de Campo;13,2;3,8;ug/m3
+2025-06-10; Plaza Elíptica ;34,1;8,7;ug/m3
+2025-09-19;Parque del Retiro;28,3;4,7;ug/m3
+2025-11-12;CUATRO CAMINOS;48,2;10,2;ug/m3
+2025-05-15;PLAZA ELIPTICA;36,2;9,1;ug/m3
+2025-10-19;Cuatro Caminos;38,2;10,9;ug/m3
+25/03/2025;RETIRO;25,1;1,9;ug/m3
+2025-05-10;CUATRO CAMINOS;34,2;10,3;ug/m3
+2025-11-07;CASA DE CAMPO;26,4;1,5;ug/m3
+03/02/2025;Plaza del Carmen;37,4;13,6;ug/m3
+15/12/2025;Pza. Elíptica;60,0;20,7;ug/m3
+2025-10-27;Plaza del Carmen ;44,0;10,1;ug/m3
+05/03/2025;Plaza Elíptica;52,7;20,1;ug/m3
+2025-03-11;Parque del Retiro;19,9;3,8;ug/m3
+2025-10-11;PLAZA ELIPTICA;19,5;17,6;ug/m3
+07/03/2025;ESCUELAS AGUIRRE;47,9;11,8;ug/m3
+2025-09-11;RETIRO;20,5;7,4;ug/m3
+2025-07-13;Retiro;17,4;4,0;ug/m3
+2025-09-07;ESCUELAS AGUIRRE;24,4;9,7;ug/m3
+2025-12-04;CUATRO CAMINOS;54,8;17,6;ug/m3
+2025-07-12;Plaza Elíptica;24,2;8,8;ug/m3
+2025-08-16;CUATRO CAMINOS;17,3;4,3;ug/m3
+2025-01-11;Retiro;36,6;9,4;ug/m3
+10/12/2025;RETIRO;30,0;7,6;ug/m3
+16/07/2025;RETIRO;17,1;5,4;ug/m3
+24/03/2025;Pza. Elíptica;61,3;20,5;ug/m3
+05/03/2025;escuelas aguirre;50,5;16,2;ug/m3
+2025-05-08;escuelas aguirre;35,4;7,1;ug/m3
+2025-05-12;cuatro caminos ;37,8;5,5;ug/m3
+2025-06-29;Plaza del Carmen ;13,6;6,4;ug/m3
+2025-05-27;Plaza del Carmen;18,1;7,9;ug/m3
+2025-02-26;escuelas aguirre;53,8;20,8;ug/m3
+19/06/2025;PLAZA DEL CARMEN;22,5;6,0;ug/m3
+2025-08-01;casa de campo;2,0;4,7;ug/m3
+2025-03-17;Cuatro Caminos;38,6;15,5;ug/m3
+2025-05-16;CUATRO CAMINOS;43,5;9,7;ug/m3
+2025-06-15;CUATRO CAMINOS;20,3;9,4;ug/m3
+27/11/2025;Escuelas Aguirre;63,9;15,8;ug/m3
+2025-02-03;CASA DE CAMPO;15,5;7,5;ug/m3
+2025-01-27;Cuatro Caminos;52,8;13,2;ug/m3
+2025-09-21;ESCUELAS AGUIRRE;33,6;8,7;ug/m3
+2025-04-28; Plaza Elíptica ;53,4;10,4;ug/m3
+2025-09-08; Plaza Elíptica ;29,8;10,0;ug/m3
+2025-07-08;escuelas aguirre;30,4;6,2;ug/m3
+2025-06-20;escuelas aguirre;26,2;1,5;ug/m3
+22/09/2025;ESCUELAS AGUIRRE;44,8;8,0;ug/m3
+2025-11-22;Cuatro Caminos;36,1;14,9;ug/m3
+2025-01-06;Retiro;29,4;6,7;ug/m3
+2025-05-10;escuelas aguirre;23,9;8,3;ug/m3
+2025-09-04;Plaza del Carmen ;38,1;8,7;ug/m3
+2025-08-20;Retiro;18,0;4,4;ug/m3
+2025-12-23;casa de campo;18,5;6,3;ug/m3
+16/08/2025;escuelas aguirre;13,4;12,2;ug/m3
+2025-12-07;Escuelas Aguirre;34,1;11,9;ug/m3
+10/02/2025;escuelas aguirre;55,2;12,0;ug/m3
+10/12/2025;CASA DE CAMPO;27,7;8,4;ug/m3
+2025-04-11; Plaza Elíptica ;50,2;14,3;ug/m3
+05/08/2025;Escuelas Aguirre;32,2;8,7;ug/m3
+2025-12-11;Parque del Retiro;25,4;-999,0;ug/m3
+18/04/2025;Parque del Retiro;12,8;4,3;ug/m3
+2025-09-12;RETIRO;17,0;7,0;ug/m3
+2025-07-31;ESCUELAS AGUIRRE;32,9;7,5;ug/m3
+13/11/2025;CASA DE CAMPO;17,9;5,0;ug/m3
+2025-04-04;Retiro;28,2;9,0;ug/m3
+01/02/2025;casa de campo;20,9;7,8;ug/m3
+2025-10-29; Plaza Elíptica ;59,4;16,7;ug/m3
+2025-06-12;casa de campo;14,9;5,7;ug/m3
+08/12/2025;ESCUELAS AGUIRRE;50,3;-999,0;ug/m3
+30/06/2025;Plaza del Carmen;35,4;4,5;ug/m3
+2025-03-21;Pza. Elíptica;60,3;18,1;ug/m3
+2025-05-05;Casa de Campo;11,9;4,7;ug/m3
+04/01/2025;casa de campo;20,8;4,4;ug/m3
+18/03/2025;CASA DE CAMPO;21,9;5,4;ug/m3
+2025-07-17;Plaza del Carmen;24,0;6,9;ug/m3
+2025-06-09;Escuelas Aguirre;29,7;11,2;ug/m3
+2025-07-22;Casa de Campo;20,7;2,8;ug/m3
+2025-09-10;CASA DE CAMPO;18,9;1,0;ug/m3
+2025-05-09;ESCUELAS AGUIRRE;34,4;-999,0;ug/m3
+08/10/2025;cuatro caminos ;39,2;-999,0;ug/m3
+2025-01-22;RETIRO;33,1;9,6;ug/m3
+22/12/2025;CUATRO CAMINOS;45,7;17,4;ug/m3
+2025-09-05; Plaza Elíptica ;33,5;13,0;ug/m3
+2025-02-25;PLAZA ELIPTICA;67,6;11,2;ug/m3
+2025-07-26;PLAZA DEL CARMEN;15,7;5,1;ug/m3
+2025-03-19;Retiro;-999,0;5,9;ug/m3
+2025-12-28;casa de campo;21,9;8,5;ug/m3
+2025-10-01; Plaza Elíptica ;38,1;15,5;ug/m3
+02/07/2025;casa de campo;6,3;2,7;ug/m3
+2025-07-08;Plaza del Carmen ;37,8;7,5;ug/m3
+2025-08-04;Parque del Retiro;13,1;4,2;ug/m3
+2025-05-24;PLAZA DEL CARMEN;-999,0;9,2;ug/m3
